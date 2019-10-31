@@ -35,8 +35,6 @@ and Supporting Technologies for Social Science Research](#what-we-learned-about-
 
 [Conclusion](#conclusion)
 
-[Notes](#notes)
-
 [References](#references)
 
 
@@ -82,7 +80,7 @@ Through subsequent interviews with researchers and students, we gained
 an understanding of the challenges facing social scientists who want to
 prepare themselves for a more data- intensive future in research. In
 response to this and the 2016 survey results, SAGE Publishing launched
-the SAGE Ocean initiative,<sup>1</sup> with the mission to support social science
+the [SAGE Ocean initiative](https://ocean.sagepub.com), with the mission to support social science
 by equipping social scientists with the skills, tools, and resources
 they need to work with big data and new technology.
 
@@ -110,9 +108,9 @@ development. We conducted detailed analyses of tools for text
 annotation, recruiting and surveying research participants, and
 collecting and analysing social media data.
 
-From this work, SAGE Ocean has built a Research Tools Directory<sup>2</sup> to
+From this work, SAGE Ocean has built a [Research Tools Directory](https://ocean.sagepub.com/research-tools) to
 help researchers navigate the landscape of tools and software, and
-launched a Concept Grant scheme<sup>3</sup> to support the builders of tools and
+launched a [Concept Grant scheme](https://ocean.sagepub.com/concept-grants) to support the builders of tools and
 software for social science research. We will continue this research and
 share our findings as we expand our list
 
@@ -223,20 +221,20 @@ We used these key sources:
 
 + Conference websites and archives
 
-+ Prominent labs and initiatives, such as the Social Media Lab at
-Ryerson University,<sup>4</sup> the Digital Methods Initiative,<sup>5</sup> Lazer Lab,<sup>6</sup>
-and the Public Data Lab<sup>7</sup>;
++ Prominent labs and initiatives, such as the [Social Media Lab at
+Ryerson University](https://socialmedialab.ca/), the [Digital Methods Initiative](https://wiki.digitalmethods.net/Dmi/DmiAbout), [Lazer Lab](https://lazerlab.net/),
+and the [Public Data Lab](https://publicdatalab.org/);
 
-+ Other tool directories and lists, including Dirt Directory,^8^
-SourceForge,^9^ GitHub,^10^ LabWorm,^11^ and data from the 2016 survey
++ Other tool directories and lists, including [Dirt Directory](https://dirtdirectory.org/),
+[SourceForge](https://sourceforge.net/), [GitHub](https://github.com/), [LabWorm](https://labworm.com/), and data from the 2016 survey
 on Innovation in Scholarly Communication (Bosman & Kramer,
 2016)
 
 + Academic papers referencing or describing the tools
 
-+ Wikipedia^12\ ^
++ [Wikipedia](https://www.wikipedia.org/)
 
-+ Crunchbase^13\ ^
++ [Crunchbase](https://www.crunchbase.com/)
 
 # Analysis
 
@@ -244,12 +242,12 @@ on Innovation in Scholarly Communication (Bosman & Kramer,
 
 Software and computational tools are critical for social science
 research. In the most recent Software Sustainability Institute Survey
-(Hettrick, 2019) conducted at the University of Southampton in the UK,
+(Hettrick, 2019) conducted at the [University of Southampton in the UK](https://github.com/Southampton-RSG/soton_software_survey_analysis_2019),
 83% of respondents working in the social sciences said they make use of
 research software. Just over 60% claim this software is vital to their
 research, and at least a fifth develop their own software with or
-without grant funding.^14^ SAGE Ocean recently ran a version of this
-survey and found that just under 90% of the 148 respondents (most of
+without grant funding. SAGE Ocean recently ran [a version of this
+survey](https://github.com/softwaresaved/local-and-regional-software-surveys/tree/master/data/sage-ocean-social-science) and found that just under 90% of the 148 respondents (most of
 whom are based out of social science and humanities faculties) use
 research software, and more than half believe it is important or very
 important to their work.^15^ Significantly, over a fifth have hired
@@ -337,12 +335,12 @@ globe.
 
 ### 2. Annotation, Labelling, and Coding Text
 
-We found 48 tools (60 if including CAQDAS^16^) that offer labelling or
+We found 48 tools (60 if including CAQDAS, *Computer Assisted Qualitative Data Analysis Software generally refers to packages like NVIVO, MaxQDA, Atlas.ti, etc.*) that offer labelling or
 annotation services for text. Ten (20%) of these have not been updated
 for at least a year. Thirty-three (69%) are free to use, and pricing for
 the remaining 15 (31%) ranges from approximately \$60 to \$10,000 for a
 1-year project or to tag 2,500 documents with three
-annotators.^17\ ^
+annotators (*These criteria were adjusted according to the features of each pricing model.*). 
 
 The oldest annotation tools (besides the CAQDAS) are GATE and Open
 Calais. GATE is open source and very popular with researchers using
@@ -363,7 +361,7 @@ Mechanical Turk, the most recent entrant to this space is Amazon's
 SageMaker, which promises to beat most other tools in rapidly
 crowdsourcing labels to train your algorithm. For researchers looking
 for a more complex set of labels and who are building a hierarchical
-coding schema, TagWorks^18^ (beta) was developed to support these
+coding schema, TagWorks (beta; *SAGE Publications invested in Thusly, the company that offers TagWorks, in 2018.*) was developed to support these
 functions. Figure 8 maps a select number of the tools for annotating
 text based on complexity of labelling and how well they
 scale.
@@ -377,7 +375,7 @@ to thirty thousand downloads a year. Brat has 218 forks on GitHub and
 more than 200 members within their contributing community, and along
 with TAMS Analyzer, we estimate they are cited more often than the other
 annotation tools (between 130 and 630, vs. less than 100 for the
-rest^19^). GATE, Brat, and TAMS Analyzer appear in the first two pages
+rest. *The inferences are based on most popular papers.*) GATE, Brat, and TAMS Analyzer appear in the first two pages
 in a Google search for "text annotation," and they are often recommended
 on Quora and ResearchGate as the best options for a social science
 labelling task.
@@ -405,7 +403,7 @@ support from SAGE)
 in Australia)
 
 We are only at the beginning of this project and will share our results
-in our SAGE Ocean blog.^20\ ^
+in our [SAGE Ocean blog](https://ocean.sagepub.com/).
 
 ### 3. Tools for Social Media Research
 
@@ -428,7 +426,7 @@ At the time of writing, we have found and reviewed 104 tools that we
 know researchers have used (see Figure 10). Close to 70% of the tools
 (70 out of 104) interface with Twitter, even though this is not
 considered the most popular social media platform, with far fewer
-monthly users than Facebook or Instagram.^21^ We believe this is because
+monthly users than Facebook or Instagram (*Just over 300 million monthly users in 2019, compared to two billion on Facebook and one billion on Instagram, for more details check [statista](https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/)*). We believe this is because
 it is much easier to access data from Twitter through their application
 programme interface (API) than from other platforms.
 
@@ -436,12 +434,12 @@ Generally, social media platforms have a policy against using their API
 for research purposes. This is true for LinkedIn and Facebook. However,
 the spread of misinformation has driven Facebook to enable access to
 their data for research purposes. In 2018, together with a number of
-partners, Facebook set up Social Science One,^22^ a nonprofit
+partners, Facebook set up [Social Science One](https://socialscience.one/), a nonprofit
 organisation led by a group of senior researchers from around the world
 who selected and gave grants to 12 teams of researchers to work with
 Facebook data. A couple of years earlier, and now on their second round
-of research programmes, LinkedIn set up the Economic Graph Research
-Program^23^ to enable researchers to access and work with their
+of research programmes, LinkedIn set up the [Economic Graph Research
+Program](https://engineering.linkedin.com/teams/data/projects/economic-graph-research) to enable researchers to access and work with their
 data.
 
 More than half (56) of the social media tools we identified are either
@@ -449,12 +447,12 @@ free apps or open source packages on GitHub, and 10 have limited free
 functionality. One tool that particularly caught our attention is
 DocNow, developed by Shift Design and a group of researchers at the
 University of Maryland and the University of Virginia, and funded by the
-Andrew W. Mellon Foundation. DocNow^24^ provides a collection of tools
+Andrew W. Mellon Foundation. [DocNow](https://www.docnow.io/) provides a collection of tools
 that respond to the role of social media in reporting historically
 significant events, or "documenting the now." Prioritising ethical
 collection, use, and preservation of social media data in academic
 research, their crowd- sourced catalog of tweet ID datasets and
-"rehydration" tool^25^ allow access to historical tweets, whilst
+["rehydration" tool](https://medium.com/on-archivy/on-forgetting-e01a2b95272) allow access to historical tweets, whilst
 ensuring they are used in line with the creator's decisions.
 
 We published a series of blog posts with more insights from our research:
@@ -561,8 +559,8 @@ to search for in academic papers, even when their names are sufficiently
 unique. Some of the tools ask for a specific paper to be cited when a
 package is used, and this makes it easier for the researcher using the
 tool as well as for the original developers, who would get credit as a
-result. GATE, for example, is very clear about which paper to cite for
-which package.^26\ ^
+result. [GATE, for example, is very clear about which paper to cite for
+which package](https://gate.ac.uk/gate/doc/papers.html).
 
 In other instances, researchers reference the software tools and
 packages they use either in the methodology section or in footnotes.
@@ -573,7 +571,7 @@ often find themselves in a situation where they have to remove the
 mention, because "it is too technical."
 
 A group of researchers from across the world has worked, as part of the
-FORCE11 Software Citation Working Group,^27^ to define software citation
+[FORCE11 Software Citation Working Group](https://www.force11.org/group/software-citation-working-group), to define software citation
 principles, which we would encourage you to read (Smith, 2016). The
 Software Sustainability Institute also provides easy-to-use guidance on
 how to cite software (Jackson, 2019).
@@ -588,16 +586,16 @@ their skills permit, they will search for and use a package someone else
 developed for the programming language they are working in.
 
 There are a number of directories out there that ease parts of this
-search process. For example, we created one^28^ with a select number of
-tools that you can browse by theme or topic. The Dirt Directory^29^ is a
+search process. For example, we created [one](https://ocean.sagepub.com/research-tools) with a select number of
+tools that you can browse by theme or topic. The [Dirt Directory](https://dirtdirectory.org/) is a
 database of tools supported by the Andrew W. Mellon Foundation. It was
-specifically developed for digital humanities based on the TaDiRaH
-taxonomy,^30^ but it is well known and useful for the social sciences as
-well. The Digital Methods Initiative also maintains a list of tools,^31^
-mostly developed by their collaborators. The tools list from the Digital
-Humanities Lab^32^ combines licensed and open source packages. Other
-useful databases are SourceForge^33^ for open source tools and
-LabWorm,^34^ a community-curated list of tools that started in
+specifically developed for digital humanities based on the [TaDiRaH
+taxonomy](https://github.com/dhtaxonomy/TaDiRAH), but it is well known and useful for the social sciences as
+well. The [Digital Methods Initiative also maintains a list of tools](https://wiki.digitalmethods.net/Dmi/ToolDatabase),
+mostly developed by their collaborators. The tools list from the [Digital
+Humanities Lab](https://dighumlab.org/tools/) combines licensed and open source packages. Other
+useful databases are [SourceForge](https://sourceforge.net/) for open source tools and
+[LabWorm](https://labworm.com/), a community-curated list of tools that started in
 bioinformatics and is now expanding beyond that discipline.
 
 #### 3. Sustainability and Open Source
@@ -608,8 +606,8 @@ many researchers resort to developing their own tools, tailored for very
 specific use cases. Thus the number of tools and packages continues to
 grow, but their lifetimes are shortening. In rare cases, researchers or
 developers manage to maintain their tools as a side project (see
-Laurence Anthony's tools^35^) and sometimes build an entire community
-while keeping the tool free and open source (see Gephi^36^).
+[Laurence Anthony's tools](http://www.laurenceanthony.net/software.html)) and sometimes build an entire community
+while keeping the tool free and open source (see [Gephi](https://gephi.org/)).
 
 It is becoming clear that open source and financially sustainable are
 not necessarily exclusive. Increasingly, researchers are finding ways of
@@ -625,10 +623,10 @@ models (2018).
 
 Two key organisations are supporting the teams that are either thinking
 about or already working on different models for their open-source
-tools. The Software Sustainability Institute provides guidance and
-support around open source code for research---anything from tips on
-building a community to continuous integration.^37^ The Apereo
-Foundation^38^ is a membership organisation that offers guidance and
+tools. The Software Sustainability Institute provides [guidance and
+support around open source code for research](https://www.software.ac.uk/resources/guides/guides-developers)---anything from tips on
+building a community to continuous integration. The [Apereo
+Foundation](https://www.apereo.org/) is a membership organisation that offers guidance and
 incubation opportunities for teams working on open source technologies
 for learning and research, to be used within higher-education
 institutions.
@@ -646,7 +644,7 @@ for their research.
 
 For example, any new and existing tools should be tested on some
 standard datasets. We have already seen this happening with
-summarisation tools; the Connected Experience Lab^39^ based at Cornell
+summarisation tools; the [Connected Experience Lab](http://cx.jacobs.cornell.edu/) based at Cornell
 University, with support from Oath and Google, developed a dataset of
 1.3 million news articles to be used for testing, training, and
 evaluating summarisation algorithms (Grusky, Naaman, & Artzi,
@@ -685,44 +683,44 @@ other nonprofit organisations. We looked further into these
 organisations and communities to understand what they do and how they
 support these technologies:
 
-+ NumFOCUS^40^ is a nonprofit organisation that helps teams develop
++ [NumFOCUS](https://numfocus.org/) is a nonprofit organisation that helps teams develop
 open-source software by providing advice around tax relief and
 sustainability programmes. It has supported tools like
-rOpenSci.^41\ ^
+[rOpenSci](https://ropensci.org/).
 
-+ The Software Sustainability Institute^42^ is a non-profit
++ The [Software Sustainability Institute](https://www.software.ac.uk/) is a non-profit
 organisation based in the UK that provides guidance and support to
 developing open source software.
 
-+ Pelagios Commons^43^ is a discipline-specific consortium (humanities)
++ [Pelagios Commons](http://commons.pelagios.org/) is a discipline-specific consortium (humanities)
 that develops and supports infrastructure for Linked Open Geodata. One
-tool in their portfolio is Recogito,^44^ for collaborative
+tool in their portfolio is [Recogito](https://recogito.pelagios.org/), for collaborative
 annotation.
 
-+ The Foundation for Open Access Statistics^45^ is a
++ The [Foundation for Open Access Statistics](http://www.foastat.org/) is a
 discipline-specific nonprofit that offers nonmonetary support for
 projects that align with its mission: free open-source tools and
-reproducible research in statistics, like the Shiny package for
-R.^46\ ^
+reproducible research in statistics, like the [Shiny package for
+R](https://shiny.rstudio.com/).
 
-+ The Open Knowledge Foundation^47^ is building a community around open
++ [The Open Knowledge Foundation](https://okfn.org/) is building a community around open
 knowledge and advocating the release of data and information. It
-supports projects like ckan.^48\ ^
+supports projects like [ckan](https://ckan.org/).
 
-+ The Digital Methods Initiative,^49^ directed by Richard Rogers,
++ The [Digital Methods Initiative](https://wiki.digitalmethods.net/), directed by Richard Rogers,
 professor of New Media and Digital Culture at the University of
 Amsterdam, collaborates with research groups across the world and other
 nongovernmental organisations to develop tools and carry out studies on
 digitally borne data. The initiative has also collaborated with the
 Amsterdam-based govcom. org, a foundation dedicated to creating and
-hosting political tools on the Web. DMI-TCAT^50^ is among their
+hosting political tools on the Web. [DMI-TCAT](https://github.com/digitalmethodsinitiative/dmi-tcat) is among their
 portfolio.
 
-+ The Corporation for Digital Scholarship^51^ is a charitable
++ [The Corporation for Digital Scholarship](http://digitalscholar.org/) is a charitable
 organisation that supports the open- source tools Omeka and
 Zotero.
 
-+ The Social Media Research Foundation^52^ is a charitable
++ [The Social Media Research Foundation](https://www.smrfoundation.org/) is a charitable
 organisation, or "a group of researchers who create tools, generate and
 host data, and support open scholarship related to social media," rhR
 developed NodeXL.
@@ -736,7 +734,7 @@ equivalent of the Software Sustainability Institute (Katz et al.,
 We found a number of regional programmes and consortia that support infrastructure for the
 social sciences or broader academic use:
 
-+ Nectar^53^ in Australia (National eResearch Collaboration Tools and
++ [NeCTAR](https://nectar.org.au/) in Australia (National eResearch Collaboration Tools and
 Resources project) was established in 2011. The project "provides an
 online infrastructure that supports researchers to connect with
 colleagues in Australia and around the world, allowing them to
@@ -744,7 +742,7 @@ collaborate and share ideas and research outcomes, which will ultimately
 contribute to our collective knowledge and make a significant impact on
 our society."
 
-+ The Center for Open Science (COS)^54^ is a United States nonprofit
++ The Center for Open Science [(COS)](https://cos.io/) is a United States nonprofit
 organisation established in 2013 to promote open science, globally.
 Brian Nosek, one of the cofounders, initiated the Psychology
 Reproducibility Project, coordinating more than 200 researchers to
@@ -752,11 +750,11 @@ reproduce psychology papers. COS are also behind Open Science Framework,
 the open source academic collaboration platform.
 
 + In Europe there are a number of infrastructure-driven collaborations.
-CLARIN^55^ supports language-related infrastructure (services, tools,
-and data) for humanities and social sciences. DARIAH^56^ is another
+[CLARIN](https://www.clarin.eu/) supports language-related infrastructure (services, tools,
+and data) for humanities and social sciences. [DARIAH](https://www.dariah.eu/) is another
 research infrastructure consortium in Europe that supports services,
 tools, data, and training materials across the arts and humanities.
-CESSDA^57^ is a research infrastructure consortium for tools, services,
+[CESSDA](https://www.cessda.eu/About) is a research infrastructure consortium for tools, services,
 and training in the social sciences, with a strong focus on research
 data.
 
@@ -779,7 +777,7 @@ money:
 
 • Venture capital (VC) and private investors
 
-*Grants* are offered as a one-off or over multiple years and, based on
+**Grants** are offered as a one-off or over multiple years and, based on
 this sample, an individual tool, company, or team can get anything from
 \$10,000 to \$6 million. The Institute of Museum and Library Services
 and the National Endowment for the Humanities are popular supporters.
@@ -793,11 +791,11 @@ supported the development of services for research. The South African
 Shuttleworth Foundation has also been involved in supporting some of the
 tools.
 
-With the SAGE Concept Grants,^58^ which we launched in 2018, we have
+With the [SAGE Concept Grants](https://ocean.sagepub.com/concept-grants), which we launched in 2018, we have
 now supported four different tools for social science researchers,
 including Quanteda for text mining and Text Wash for redacting and
 anonymising textual data. Focusing on the entire scholarly
-communications cycle, the Digital Science Catalyst Grants^59^ have
+communications cycle, the [Digital Science Catalyst Grants](https://www.digital-science.com/investment/catalyst-grant/) have
 funded more than a dozen startups in the academic space.
 
 > The Knight Enterprise Fund is a VC-type programme estab- lished by the
@@ -806,11 +804,11 @@ funded more than a dozen startups in the academic space.
 > $20M size); portfolio companies include Authorea and had 3
 > exits.
 
-*Crowdfunding*, although more popular for science projects, has been used
-for a few tools in the social sciences. Two of these are Open
-Collective^60^ and Superior Ideas.^61\ ^
+**Crowdfunding**, although more popular for science projects, has been used
+for a few tools in the social sciences. Two of these are [Open
+Collective](https://opencollective.com/) and [Superior Ideas](https://www.superiorideas.org/).
 
-*VC funding* is popular among teams that intend to commercialise or make
+**VC funding** is popular among teams that intend to commercialise or make
 a profit from tools that cover a wider market than the academic sector.
 A startup can get anything from \$250,000 to \$400 million over one,
 two, or three series of investment. Some companies have been able to
@@ -836,9 +834,9 @@ capacity, they don't normally see applications from many software for
 social science research. Driven by market demand and budget size, large
 university incubators such as Imperial Innovations (£300M, with at least
 91 investments), SETSquared (£1B+), Velocity (157 investments), and
-Creative Destruction Lab (194 investments)^62^ fund and accelerate
+Creative Destruction Lab (194 investments) fund and accelerate
 startups with underlying patents pending, or those focusing on biotech
-and industrial technologies.
+and industrial technologies (Data retrieved from [crunchbase](https://www.crunchbase.com/) in July 2019).
 
 
 
@@ -871,7 +869,7 @@ his team developed allourideas.org, a free surveying tool that enables
 researchers to engage their respondents to contribute to the survey
 development while also collecting answers. A group of computer
 scientists and social scientists from the University of Washington
-Madison developed NEXT,^63^ a surveying tool powered by an algorithm
+Madison developed [NEXT](http://nextml.org/), a surveying tool powered by an algorithm
 that adapts the survey sample and questions as more people answer them
 to get better results faster and without having to rerun the survey.
 Academics are at the forefront of these projects, developing new
@@ -888,10 +886,11 @@ developing successful tools and technologies used by social science
 researchers work fast. The UK-based Prolific team, for example, came up
 with its minimum viable product in just four weeks. Additionally,
 RapidMiner is a successful tool that researchers developed in relatively
-rapid iterations, raising more than \$30M in funding^64^ while also open
+rapid iterations, raising more than \$30M in funding (Data retrieved from [crunchbase](https://www.crunchbase.com/organization/rapidminer) in July 2019) while also open
 sourcing the code. Where tools have gone through significant exits (IPO
-for SurveyMonkey^65^ in 2018, acquisition for Qualtrics^66^ in 2018,
-Tableau^67^ and FigureEight^68^ in 2019) an executive with a background
+for [SurveyMonkey in 2018](https://www.marketwatch.com/story/surveymonkey-ipo-5-things-to-know-about-the-survey-software-maker-2018-09-01), acquisition for [Qualtrics in 2018](https://techcrunch.com/2018/11/11/sap-agrees-to-buy-qualtrics-for-8b-in-cash-just-before-the-survey-software-companys-ipo/),
+[Tableau](see: https://seekingalpha.com/article/4271153-sales-
+force-com-tableau-acquisition-game-changer) and [FigureEight](https://techcrunch.com/2019/03/10/appen-acquires-figure-eight/) in 2019) an executive with a background
 in business and/ or consultancy was always involved. Whilst many of
 these tools are used by social science researchers, their success is
 ultimately driven by a growing need to explore and exploit the market
@@ -919,7 +918,7 @@ everything about us, we will be uploading new data to our brains, and
 recording our dreams. Self-writing software will be easily available.
 Someone or something will be monitoring the public mood and releasing
 forecasts almost like weather forecasts. We may even have an interface
-to control thoughts, along the lines of CTRL-Labs^69^ and Emotiv.^70^ A
+to control thoughts, along the lines of [CTRL-Labs](https://www.ctrl-labs.com/) (not yet acquired by Facebook at the time of writing) and [Emotiv](https://www.emotiv.com/). A
 lot more data will be available, and possibly accessible, for research.
 But who will own the data and where will the talent and academic experts
 who can explore it be?
@@ -958,184 +957,7 @@ Want to talk about the future of tools, data, and methods in the social
 sciences? SAGE Ocean would love to hear from you. Contact us at
 ocean@sagepub.com or visit ocean.sagepub.com.
 
-#Notes
 
-1. https://ocean.sagepub.com
-
-2. https://ocean.sagepub.com/research-tools
-
-3. https://ocean.sagepub.com/concept-grants
-
-4. https://socialmedialab.ca/
-
-5. https://wiki.digitalmethods.net/Dmi/DmiAbout
-
-6. https://lazerlab.net/
-
-7. https://publicdatalab.org/
-
-8. https://dirtdirectory.org/
-
-9. https://sourceforge.net/
-
-10. https://github.com/
-
-11. https://labworm.com/
-
-12. https://www.wikipedia.org/
-
-13. https://www.crunchbase.com/
-
-14. For latest raw dataset and analysis, see this GitHub repository:
-https://github.com/Southampton
-
--RSG/soton\_software\_survey\_analysis\_2019
-
-15. For the latest raw and cleaned dataset, see this GitHub repository:
-https://github.com/
-
-softwaresaved/local-and-regional-software-surveys/tree/master/data/sage-ocean-social-science
-
-16. Computer Assisted Qualitative Data Analysis Software generally
-refers to packages like NVIVO,
-
-MaxQDA, Atlas.ti, etc.
-
-17. These criteria were adjusted according to the features of each
-pricing model.
-
-18. SAGE Publications invested in Thusly, the company that offers
-TagWorks, in 2018.
-
-19. The inferences are based on most popular papers.
-
-20. https://ocean.sagepub.com/
-
-21. Just over 300 million monthly users in 2019, compared to two
-billion on Facebook and one billion on
-
-Instagram, for more details:
-https://www.statista.com/statistics/272014/global-social-
-networks-ranked-by-number-of-users/
-
-22. https://socialscience.one/
-
-23.
-https://engineering.linkedin.com/teams/data/projects/economic-graph-research
-
-24. https://www.docnow.io/
-
-25. On how 'rehydration' works, see
-https://medium.com/on-archivy/on-forgetting-e01a2b95272
-
-26. https://gate.ac.uk/gate/doc/papers.html
-
-27.
-https://www.force11.org/group/software-citation-working-group
-
-28. https://ocean.sagepub.com/research-tools
-
-29. https://dirtdirectory.org/
-
-30. https://github.com/dhtaxonomy/TaDiRAH
-
-31. https://wiki.digitalmethods.net/Dmi/ToolDatabase
-
-32. https://dighumlab.org/tools/
-
-33. https://sourceforge.net/
-
-34. https://labworm.com/
-
-35. http://www.laurenceanthony.net/software.html
-
-36. https://gephi.org/
-
-37.
-https://www.software.ac.uk/resources/guides/guides-developers
-
-38. https://www.apereo.org/
-
-39. http://cx.jacobs.cornell.edu/
-
-40. https://numfocus.org/
-
-41. https://ropensci.org/
-
-42. https://www.software.ac.uk/
-
-43. http://commons.pelagios.org/
-
-44. https://recogito.pelagios.org/
-
-45. http://www.foastat.org/
-
-46. https://shiny.rstudio.com/
-
-47. https://okfn.org/
-
-48. https://ckan.org/
-
-49. https://wiki.digitalmethods.net/
-
-50. https://github.com/digitalmethodsinitiative/dmi-tcat
-
-51. http://digitalscholar.org/
-
-52. https://www.smrfoundation.org/
-
-53. https://nectar.org.au/
-
-54. https://cos.io/
-
-55. https://www.clarin.eu/
-
-56. https://www.dariah.eu/
-
-57. https://www.cessda.eu/About
-
-58. https://ocean.sagepub.com/concept-grants
-
-59.
-https://www.digital-science.com/investment/catalyst-grant/
-
-60. https://opencollective.com/
-
-61. https://www.superiorideas.org/
-
-62. Data retrieved from https://www.crunchbase.com/ in July
-2019
-
-63. http://nextml.org/
-
-64. Data retrieved from
-https://www.crunchbase.com/organization/rapidminer in July
-2019
-
-65. On SurveyMonkey's IPO, see:
-https://www.marketwatch.com/story/surveymonkey-ipo-5-things-to-
-
-know-about-the-survey-software-maker-2018-09-01
-
-66. On SAP's acquisition of Qualtrics, see
-https://techcrunch.com/2018/11/11/sap-agrees-to-buy-
-
-qualtrics-for-8b-in-cash-just-before-the-survey-software-companys-ipo/
-
-67. On Salesforce's acquisition of Tableau, see:
-https://seekingalpha.com/article/4271153-sales-
-
-force-com-tableau-acquisition-game-changer
-
-68. On Appen's acquisition of FigureEight, see:
-https://techcrunch.com/2019/03/10/appen-acquires-
-
-figure-eight/
-
-69. https://www.ctrl-labs.com/, acquired by Facebook in September
-2019
-
-70. https://www.emotiv.com/
 
 #References
 
