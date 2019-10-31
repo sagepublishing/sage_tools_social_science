@@ -959,15 +959,14 @@ ocean@sagepub.com or visit ocean.sagepub.com.
 
 
 
-#References
+# References
 
 Andersen, D. (2013, March 3). The story behind Qualtrics, the next
 great enterprise company [Online]. Retrieved from
 https://techcrunch.com/2013/03/02/the-story-behind-qualtrics-the-next-great-
 enterprise-company/
 
-Bosman, J., & Kramer, B. (2016). Innovations in scholarly communication
-- Data of the global 2015--2016 survey [Dataset]. Zenodo. doi:10.5281/zenodo.49583
+Bosman, J., & Kramer, B. (2016). Innovations in scholarly communication - Data of the global 2015--2016 survey [Dataset]. Zenodo. doi:10.5281/zenodo.49583
 
 Campfens, Y. (2019). Market research report: What has become of new
 entrants in research workflows and scholarly communication? doi:10.31219/osf.io/a78zj
