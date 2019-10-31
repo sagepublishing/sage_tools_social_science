@@ -1,6 +1,6 @@
 [Daniela Duca](https://twitter.com/danielagduca), PhD Product Manager, SAGE Publishing
 
-[Katie Metzler](https://twitter.com › kmetzlersage) Associate Vice President Product Innovation, SAGE Publishing
+[Katie Metzler](https://twitter.com/kmetzlersage) Associate Vice President Product Innovation, SAGE Publishing
 
 ###### www.sagepublishing.com
 
