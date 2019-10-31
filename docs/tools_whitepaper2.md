@@ -1,6 +1,6 @@
-######A SAGE White Paper
+###### A SAGE White Paper
 
-#The Ecosystem of Technologies for Social Science Research
+# The Ecosystem of Technologies for Social Science Research
 
 Daniela Duca, PhD Product Manager, SAGE Publishing
 
@@ -9,59 +9,40 @@ Publishing
 
 ###### www.sagepublishing.com
 
-#Contents
+# Contents
 
 Acknowledgments
-\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...1
 
 Overview
-\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...2
 
-What We Learned About Technologies for Social Science Research
-\...\...\...\...\...\...\...\...\...\..... 4
+   What We Learned About Technologies for Social Science Research
 
-What We Learned About the Individuals and Organisations Developing
-and
-
-Supporting Technologies for Social Science
-Research\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.....
-4
+   What We Learned About the Individuals and Organisations Developing
+and Supporting Technologies for Social Science Research
 
 Methodology
-\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...4
 
 Analysis
-\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.....5
 
-Tools and Technologies: Trends Over Time
-\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
-5
+   Tools and Technologies: Trends Over Time
 
-Characteristics of Tools by Cluster
-\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
-6
+   Characteristics of Tools by Cluster
 
-Challenges Facing Tool Creators and Users
-\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.....
-12
+   Challenges Facing Tool Creators and Users
 
-Who Supports Tools and Technologies for Social Science Research?
-\...\...\...\...\...\...\...\...\.... 17
+   Who Supports Tools and Technologies for Social Science Research?
 
 Conclusion
-\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....19
 
 Notes
-\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
-21
-References\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
-23
+
+References
 
 Suggested citation: Duca, D., & Metzler, K. (2019). *The ecosystem of
 technologies for social science research* (White paper). London, UK:
 Sage. doi: 10.4135/wp191101
 
-#Acknowledgments
+# Acknowledgments
 
 This paper would not have been possible without the work of Shulin Hu
 and Lily Davies, both master's students within the Digital Humanities
@@ -74,7 +55,7 @@ endless questions.
 
 
 
-#Overview
+# Overview
 
 The growth in digitally borne data, combined with increasingly
 accessible means of developing software, has resulted in a proliferation
@@ -200,7 +181,7 @@ such as Sequoia and Index Ventures. With the exception of Prolific, only
 a few startups coming out of university incubators target social science
 researchers.
 
-#Methodology
+# Methodology
 
 We reviewed 418 software tools we know are used by social science
 researchers. This is by no means a comprehensive list, and we intend to
@@ -262,9 +243,9 @@ on Innovation in Scholarly Communication (Bosman & Kramer,
 
 • Crunchbase^13\ ^
 
-#Analysis
+# Analysis
 
-##Tools and Technologies: Trends Over Time
+## Tools and Technologies: Trends Over Time
 
 Software and computational tools are critical for social science
 research. In the most recent Software Sustainability Institute Survey
@@ -304,7 +285,7 @@ the sample covers a variety of tools for social science research, it is
 biased towards social media analysis and annotation, as these are the
 areas we investigated most comprehensively.
 
-##Characteristics of Tools by Cluster
+## Characteristics of Tools by Cluster
 
 ### 1. Tools for Surveying and Sourcing Participants
 
@@ -496,7 +477,7 @@ involved in developing them (Davies, 2019)
 • Information about the teams given access to Facebook data through
 Social Science One (SAGE Ocean, 2019)
 
-##Challenges Facing Tool Creators and Users
+## Challenges Facing Tool Creators and Users
 
 We were interested in learning about the people creating and developing
 these tools, in order to determine patterns that could drive the tools'
@@ -828,11 +809,11 @@ anonymising textual data. Focusing on the entire scholarly
 communications cycle, the Digital Science Catalyst Grants^59^ have
 funded more than a dozen startups in the academic space.
 
->The Knight Enterprise Fund is a VC-type programme estab- lished by the
->Knight Foundation to support early stage start- ups in news media and
->publishing. They have been active for about 5 years (estimate at least
->$20M size); portfolio companies include Authorea and had 3
->exits.
+> The Knight Enterprise Fund is a VC-type programme estab- lished by the
+> Knight Foundation to support early stage start- ups in news media and
+> publishing. They have been active for about 5 years (estimate at least
+> $20M size); portfolio companies include Authorea and had 3
+> exits.
 
 *Crowdfunding*, although more popular for science projects, has been used
 for a few tools in the social sciences. Two of these are Open
