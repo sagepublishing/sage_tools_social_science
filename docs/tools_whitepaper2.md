@@ -962,75 +962,47 @@ ocean@sagepub.com or visit ocean.sagepub.com.
 #References
 
 Andersen, D. (2013, March 3). The story behind Qualtrics, the next
-great enterprise company \Online\.
-
-Retrieved from
+great enterprise company [Online]. Retrieved from
 https://techcrunch.com/2013/03/02/the-story-behind-qualtrics-the-next-great-
 enterprise-company/
 
 Bosman, J., & Kramer, B. (2016). Innovations in scholarly communication
-- Data of the global 2015--2016
-
-survey \Dataset\. Zenodo. doi:10.5281/zenodo.49583
+- Data of the global 2015--2016 survey [Dataset]. Zenodo. doi:10.5281/zenodo.49583
 
 Campfens, Y. (2019). Market research report: What has become of new
-entrants in research workflows
-
-and scholarly communication? doi:10.31219/osf.io/a78zj
+entrants in research workflows and scholarly communication? doi:10.31219/osf.io/a78zj
 
 Clement, J. (2019). Social media -- Statistics & facts. Retrieved from
-Statista: https://www.statista.com/
-
-topics/1164/social-networks/
+Statista: https://www.statista.com/topics/1164/social-networks/
 
 Davies, L. (2019, June 4). Social media data in research: A review of
-the current landscape \Blog post\.
-
-Retrieved from
-https://ocean.sagepub.com/blog/social-media-data-in-research-a-review-of-the-
-current-landscape
+the current landscape [Blog post]. Retrieved from
+https://ocean.sagepub.com/blog/social-media-data-in-research-a-review-of-the-current-landscape
 
 Duca, D. (2019, June 27). Social scientists working with LinkedIn data
-\Blog post\. Retrieved from https://
-
-ocean.sagepub.com/blog/social-scientists-working-with-linkedin-data
+[Blog post]. Retrieved from https://ocean.sagepub.com/blog/social-scientists-working-with-linkedin-data
 
 Grusky, M., Naaman, M., & Artzi, Y. (2018). Newsroom: A dataset of 1.3
-million summaries with diverse
-
-extractive strategies. *Proceedings of the 2018 Conference of the North
+million summaries with diverse extractive strategies. *Proceedings of the 2018 Conference of the North
 American Chapter of the Association for Computational Linguistics: Human
-Language Technologies, Volume 1 (Long Papers).*
-doi:10.18653/v1/N18-1065
+Language Technologies, Volume 1 (Long Papers).* doi:10.18653/v1/N18-1065
 
 Hettrick, S. (2019). Software in Southampton: Presentation on the
-results of the University of
-
-Southampton software survey conducted in June 2019 \Slides\.
-Retrieved from https://slides.com/
-simonhettrick/software-in-southampton\#/3/9
+results of the University of Southampton software survey conducted in June 2019 [Slides].
+Retrieved from https://slides.com/simonhettrick/software-in-southampton\#/3/9
 
 Hu, S. (2019, May 20). How researchers around the world are making use
-of Weibo data \Blog post\.
-
-Retrieved from
-https://ocean.sagepub.com/blog/how-researchers-around-the-world-are-making-
-use-of-weibo-data
+of Weibo data [Blog post]. Retrieved from
+https://ocean.sagepub.com/blog/how-researchers-around-the-world-are-making-use-of-weibo-data
 
 Imperial Tech Foresight. (2019). Table of disruptive technologies
-\Infographic\. Retrieved from https://
+[Infographic]. Retrieved from https://www.imperialtechforesight.com/visions/table-of-disruptive-technologies/
 
-www.imperialtechforesight.com/visions/table-of-disruptive-technologies/
+Jacks, J. (2018, July 9). #3: COSS business model progressions [Blog
+post]. Retrieved from https://medium.com/open-consensus/3-oss-business-model-progressions-dafd5837f2d
 
-Jacks, J. (2018, July 9). \#3: COSS business model progressions \Blog
-post\. Retrieved from https://
-
-medium.com/open-consensus/3-oss-business-model-progressions-dafd5837f2d
-
-Jackson, M. (2019). How to cite and describe software \Online\.
-Retrieved from https://www.software
-
-.ac.uk/how-cite-software
+Jackson, M. (2019). How to cite and describe software [Online].
+Retrieved from https://www.software.ac.uk/how-cite-software
 
 Katz, D. S., McInnes, L. C., Bernholdt, D. E., Mayes, A. C., Hong, N.
 P., Duckles, J., Gesing, S., Heroux, M. A., Hettrick, S., Jimenez, R.
@@ -1040,33 +1012,24 @@ developed and sustained. *Computing in Science & Engineering*, *21*,
 8--24. doi:10.1109/MCSE.2018.2883051
 
 Lumsden, J. (2019, February 19). So, you want to run an online
-experiment? \Blog post\. Retrieved from
-
-https://ocean.sagepub.com/blog/how-to-run-an-online-experiment
+experiment? [Blog post]. Retrieved from https://ocean.sagepub.com/blog/how-to-run-an-online-experiment
 
 Metzler, K., Kim, D. A., Allum, N., & Denman, A. (2016). Who is doing
 computational social science?
 
-Trends in big data research \White paper\. London, UK: SAGE
-Publishing. doi:10.4135/wp160926 .Retrieved from
-https://us.sagepub.com/sites/default/files/CompSocSci.pdf
+Trends in big data research [White paper]. London, UK: SAGE
+Publishing. doi:10.4135/wp160926 .Retrieved from https://us.sagepub.com/sites/default/files/CompSocSci.pdf
 
 Qualtrics. (2019, July 11). Qualtrics ranked top 10 most innovative
-company in 2019 GRIT report \Press
-
-release\. Retrieved from
+company in 2019 GRIT report [Press release]. Retrieved from
 https://www.qualtrics.com/news/qualtrics-ranked-top-10-most-innovative-
 company-in-2019-grit-report/
 
 Radford, J. (2019, April 29). Collecting social media data for research
-\Blog post\. Retrieved from https://
-
-ocean.sagepub.com/blog/collecting-social-media-data-for-research
+[Blog post]. Retrieved from https://ocean.sagepub.com/blog/collecting-social-media-data-for-research
 
 RapidMiner. (2015, September 1). RapidMiner embraces its community and
-open source culture
-
-delivering get-more-open-core predictive analytics \Press release\.
+open source culture delivering get-more-open-core predictive analytics [Press release].
 Retrieved from https://rapidminer.com/news/rapidminerembracesitscommunity/
 
 SAGE Ocean. (2019, May 2). Researchers are awarded grants to study
@@ -1082,7 +1045,7 @@ Working Group. (2016). Software citation principles. *PeerJ Computer Science* 2:
 doi:10.7717/peerj-cs.86
 
 Tay, A. (2019, July 4). Are Google & web scale discovery services ---
-Low skill cap, low performance cap tools? (Blog post). Retrieved from
+Low skill cap, low performance cap tools? [Blog post]. Retrieved from
 https://medium.com/@aarontay/are-google-web-scale-discovery-services-low-skill-cap-low-performance-cap-tools-afa232f0d196
 
 Wiggers, K. (2019, May 23). Chick-fil-A's AI can spot signs of
