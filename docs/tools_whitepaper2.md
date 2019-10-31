@@ -82,7 +82,7 @@ Through subsequent interviews with researchers and students, we gained
 an understanding of the challenges facing social scientists who want to
 prepare themselves for a more data- intensive future in research. In
 response to this and the 2016 survey results, SAGE Publishing launched
-the SAGE Ocean initiative,^1^ with the mission to support social science
+the SAGE Ocean initiative,<sup>1</sup> with the mission to support social science
 by equipping social scientists with the skills, tools, and resources
 they need to work with big data and new technology.
 
@@ -110,9 +110,9 @@ development. We conducted detailed analyses of tools for text
 annotation, recruiting and surveying research participants, and
 collecting and analysing social media data.
 
-From this work, SAGE Ocean has built a Research Tools Directory^2^ to
+From this work, SAGE Ocean has built a Research Tools Directory<sup>2</sup> to
 help researchers navigate the landscape of tools and software, and
-launched a Concept Grant scheme^3^ to support the builders of tools and
+launched a Concept Grant scheme<sup>3</sup> to support the builders of tools and
 software for social science research. We will continue this research and
 share our findings as we expand our list
 
@@ -224,8 +224,8 @@ We used these key sources:
 + Conference websites and archives
 
 + Prominent labs and initiatives, such as the Social Media Lab at
-Ryerson University,^4^ the Digital Methods Initiative,^5^ Lazer Lab,^6^
-and the Public Data Lab^7\ ^
+Ryerson University,<sup>4</sup> the Digital Methods Initiative,<sup>5</sup> Lazer Lab,<sup>6</sup>
+and the Public Data Lab<sup>7</sup>;
 
 + Other tool directories and lists, including Dirt Directory,^8^
 SourceForge,^9^ GitHub,^10^ LabWorm,^11^ and data from the 2016 survey
