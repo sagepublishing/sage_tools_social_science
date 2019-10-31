@@ -6,6 +6,9 @@
 
 [Katie Metzler](https://twitter.com/kmetzlersage) Associate Vice President Product Innovation, [SAGE PUBLISHING](https://www.sagepublishing.com)
 
+**Suggested citation**: Duca, D., & Metzler, K. (2019). *The ecosystem of
+technologies for social science research* (White paper). London, UK:
+Sage. doi: 10.4135/wp191101
 
 # Contents
 
@@ -36,9 +39,7 @@ and Supporting Technologies for Social Science Research](#what-we-learned-about-
 
 [References](#references)
 
-**Suggested citation**: Duca, D., & Metzler, K. (2019). *The ecosystem of
-technologies for social science research* (White paper). London, UK:
-Sage. doi: 10.4135/wp191101
+
 
 # Acknowledgments
 
