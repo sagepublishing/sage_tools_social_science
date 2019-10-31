@@ -3,9 +3,9 @@
 # Authors:
 First draft, November 2019
 
-[Daniela Duca](https://twitter.com/danielagduca), PhD Product Manager, [SAGE PUBLISHING](https://www.sagepublishing.com)
+-[Daniela Duca](https://twitter.com/danielagduca), PhD Product Manager, [SAGE PUBLISHING](https://www.sagepublishing.com)
 
-[Katie Metzler](https://twitter.com/kmetzlersage) Associate Vice President Product Innovation, [SAGE PUBLISHING](https://www.sagepublishing.com)
+-[Katie Metzler](https://twitter.com/kmetzlersage) Associate Vice President Product Innovation, [SAGE PUBLISHING](https://www.sagepublishing.com)
 
 **Suggested citation**: Duca, D., & Metzler, K. (2019). *The ecosystem of
 technologies for social science research* (White paper). London, UK:
