@@ -7,7 +7,7 @@ Daniela Duca, PhD Product Manager, SAGE Publishing
 Katie Metzler Associate Vice President Product Innovation, SAGE
 Publishing
 
-###### www.sagepublishing.com
+###### [www.sagepublishing.com](https://sagepublishing.com)
 
 # Contents
 
