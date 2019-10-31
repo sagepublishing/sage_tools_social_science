@@ -1,6 +1,7 @@
 #### Brough to you by [SAGE Ocean](https//ocean.sagepub.com), enabling social scientists to work with big data and new technologies. 
 
 # Authors:
+First draft, November 2019
 
 [Daniela Duca](https://twitter.com/danielagduca), PhD Product Manager, [SAGE PUBLISHING](https://www.sagepublishing.com)
 
