@@ -17,4 +17,5 @@ include:
 title: The Ecosystem of Technologies for Social Science Research
 description: A SAGE White Paper
 
-show_downloads: true
+show_downloads: false
+google_analytics: 
