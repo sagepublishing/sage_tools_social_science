@@ -31,7 +31,7 @@ and Supporting Technologies for Social Science Research](#what-we-learned-about-
 
 - [Challenges Facing Tool Creators and Users](#challenges-facing-tool-creators-and-users)  
 
-- [Who Supports Tools and Technologies for Social Science Research?](#who-supports-tools-and-technologies-for-social-science-research) 
+- [Who Supports Tools and Technologies for Social Science Research](#who-supports-tools-and-technologies-for-social-science-research) 
 
 [Conclusion](#conclusion)
 
@@ -677,7 +677,7 @@ And regulations around the ownership and use of personal data are being
 strengthened, with more consideration for the current state that big
 tech companies have brought about.
 
-## Who Supports Tools and Technologies for Social Science Research?
+## Who Supports Tools and Technologies for Social Science Research
 
 Over one hundred of the tools in our list were developed within
 university research projects, by dedicated communities, consortia, or
