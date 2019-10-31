@@ -1067,38 +1067,24 @@ RapidMiner. (2015, September 1). RapidMiner embraces its community and
 open source culture
 
 delivering get-more-open-core predictive analytics \Press release\.
-Retrieved from https://rapidminer
-.com/news/rapidminerembracesitscommunity/
+Retrieved from https://rapidminer.com/news/rapidminerembracesitscommunity/
 
 SAGE Ocean. (2019, May 2). Researchers are awarded grants to study
-Facebook data and its influence
-
-on elections \Blog post\. Retrieved from
-https://ocean.sagepub.com/blog/researchers-are-awarded-
-grants-to-study-facebook-data-and-its-influence-on-elections
+Facebook data and its influence on elections [Blog post]. Retrieved from
+https://ocean.sagepub.com/blog/researchers-are-awarded-grants-to-study-facebook-data-and-its-influence-on-elections
 
 SAP. (2018, November 11). SAP SE to acquire Qualtrics International
-Inc., sees experience management
-
-as the future of business \Press release\. Retrieved from
-https://news.sap.com/2018/11/
-sap-to-acquire-qualtrics-experience-management/
+Inc., sees experience management as the future of business [Press release]. Retrieved from
+https://news.sap.com/2018/11/sap-to-acquire-qualtrics-experience-management/
 
 Smith, A. M., Katz, D. S., Niemeyer, K. E., & FORCE11 Software Citation
-Working Group. (2016). Software
-
-citation principles. *PeerJ Computer Science* 2:e86.
+Working Group. (2016). Software citation principles. *PeerJ Computer Science* 2:e86.
 doi:10.7717/peerj-cs.86
 
 Tay, A. (2019, July 4). Are Google & web scale discovery services ---
-Low skill cap, low performance cap
-
-tools? \Blog post\. Retrieved from
-https://medium.com/\@aarontay/are-google-web-scale-
-discovery-services-low-skill-cap-low-performance-cap-tools-afa232f0d196
+Low skill cap, low performance cap tools? (Blog post). Retrieved from
+https://medium.com/@aarontay/are-google-web-scale-discovery-services-low-skill-cap-low-performance-cap-tools-afa232f0d196
 
 Wiggers, K. (2019, May 23). Chick-fil-A's AI can spot signs of
 foodborne illness from social media posts with 78% accuracy.
-*VentureBeat.* Retrieved from
-https://venturebeat.com/2019/05/23/chick-fil-as-
-ai-can-spot-signs-of-foodborne-illness-from-social-media-posts-with-78-accuracy/
+*VentureBeat.* Retrieved from https://venturebeat.com/2019/05/23/chick-fil-as-ai-can-spot-signs-of-foodborne-illness-from-social-media-posts-with-78-accuracy/
