@@ -1,10 +1,10 @@
-###### [SAGE PUBLISHING](https://www.sagepublishing.com)
+###### Brough to you by [SAGE Ocean](https//ocean.sagepub.com) 
 
 # Authors:
 
-[Daniela Duca](https://twitter.com/danielagduca), PhD Product Manager, SAGE Publishing
+[Daniela Duca](https://twitter.com/danielagduca), PhD Product Manager, [SAGE PUBLISHING](https://www.sagepublishing.com)
 
-[Katie Metzler](https://twitter.com/kmetzlersage) Associate Vice President Product Innovation, SAGE Publishing
+[Katie Metzler](https://twitter.com/kmetzlersage) Associate Vice President Product Innovation, [SAGE PUBLISHING](https://www.sagepublishing.com)
 
 
 # Contents
