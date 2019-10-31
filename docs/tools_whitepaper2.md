@@ -15,11 +15,10 @@ Publishing
 
 [Overview](#overview)
 
-      What We Learned About Technologies for Social Science Research   
+   What We Learned About Technologies for Social Science Research  
 
-      What We Learned About the Individuals and Organisations Developing
-and Supporting Technologies for Social Science Research  
-
+   What We Learned About the Individuals and Organisations Developing and Supporting Technologies for Social Science Research
+   
 [Methodology](#methodology)
 
 [Analysis](analysis)
