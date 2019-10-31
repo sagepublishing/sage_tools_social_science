@@ -1,4 +1,4 @@
-###### Brough to you by [SAGE Ocean](https//ocean.sagepub.com), enabling social scientists to work with big data and new technologies. 
+#### Brough to you by [SAGE Ocean](https//ocean.sagepub.com), enabling social scientists to work with big data and new technologies. 
 
 # Authors:
 
