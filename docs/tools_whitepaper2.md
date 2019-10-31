@@ -7,22 +7,22 @@ Daniela Duca, PhD Product Manager, SAGE Publishing
 Katie Metzler Associate Vice President Product Innovation, SAGE
 Publishing
 
-###### [www.sagepublishing.com](https://sagepublishing.com)
+###### www.sagepublishing.com
 
 # Contents
 
 [Acknowledgments](#acknowledgments)
 
-Overview
+[Overview](#overview)
 
    What We Learned About Technologies for Social Science Research   
 
    What We Learned About the Individuals and Organisations Developing
 and Supporting Technologies for Social Science Research  
 
-Methodology
+[Methodology](#methodology)
 
-Analysis
+[Analysis](analysis)
 
    Tools and Technologies: Trends Over Time  
 
@@ -32,17 +32,17 @@ Analysis
 
    Who Supports Tools and Technologies for Social Science Research?  
 
-Conclusion
+[Conclusion](#conclusion)
 
-Notes
+[Notes](#notes)
 
-References
+[References](#references)
 
 Suggested citation: Duca, D., & Metzler, K. (2019). *The ecosystem of
 technologies for social science research* (White paper). London, UK:
 Sage. doi: 10.4135/wp191101
 
-# Acknowledgments
+# [Acknowledgments](#ack)
 
 This paper would not have been possible without the work of Shulin Hu
 and Lily Davies, both master's students within the Digital Humanities
