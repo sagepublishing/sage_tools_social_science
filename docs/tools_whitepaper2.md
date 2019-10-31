@@ -11,11 +11,11 @@ Publishing
 
 # Contents
 
-Acknowledgments
+<a name="ack"> Acknowledgments </>
 
 Overview
 
-   What We Learned About Technologies for Social Science Research  
+   What We Learned About Technologies for Social Science Research   
 
    What We Learned About the Individuals and Organisations Developing
 and Supporting Technologies for Social Science Research  
@@ -42,7 +42,7 @@ Suggested citation: Duca, D., & Metzler, K. (2019). *The ecosystem of
 technologies for social science research* (White paper). London, UK:
 Sage. doi: 10.4135/wp191101
 
-# Acknowledgments
+# [Acknowledgments](#ack)
 
 This paper would not have been possible without the work of Shulin Hu
 and Lily Davies, both master's students within the Digital Humanities
