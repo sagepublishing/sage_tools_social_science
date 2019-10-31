@@ -42,7 +42,7 @@ Suggested citation: Duca, D., & Metzler, K. (2019). *The ecosystem of
 technologies for social science research* (White paper). London, UK:
 Sage. doi: 10.4135/wp191101
 
-# <a name="acknowledgements"> Acknowledgments </a>
+# <a name="acknowledgements">Acknowledgments</a>
 
 This paper would not have been possible without the work of Shulin Hu
 and Lily Davies, both master's students within the Digital Humanities
