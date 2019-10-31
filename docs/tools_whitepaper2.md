@@ -11,7 +11,7 @@ Publishing
 
 # Contents
 
-<a name="ack"> Acknowledgments </>
+<a name="ack"> Acknowledgments </a>
 
 Overview
 
