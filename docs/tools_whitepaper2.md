@@ -15,22 +15,22 @@ Acknowledgments
 
 Overview
 
-   What We Learned About Technologies for Social Science Research
+   What We Learned About Technologies for Social Science Research  
 
    What We Learned About the Individuals and Organisations Developing
-and Supporting Technologies for Social Science Research
+and Supporting Technologies for Social Science Research  
 
 Methodology
 
 Analysis
 
-   Tools and Technologies: Trends Over Time
+   Tools and Technologies: Trends Over Time  
 
-   Characteristics of Tools by Cluster
+   Characteristics of Tools by Cluster  
 
-   Challenges Facing Tool Creators and Users
+   Challenges Facing Tool Creators and Users  
 
-   Who Supports Tools and Technologies for Social Science Research?
+   Who Supports Tools and Technologies for Social Science Research?  
 
 Conclusion
 
@@ -132,8 +132,7 @@ builders themselves.
 >packaged within an interface or delivered raw on GitHub and used by
 >academic researchers.
 
-## What We Learned About Technologies for Social Science
-Research
+## What We Learned About Technologies for Social Science Research
 
 Our research identified a wide variety of tools and software packages
 used by social science researchers. Software is important for
@@ -152,8 +151,7 @@ with a growing list in the text mining cluster. Overall, we note a
 diversity in the types of features the tools offer, growing
 concomitantly with support from various stakeholders.
 
-## What We Learned About the Individuals and Organisations Developing and
-Supporting Technologies for Social Science Research
+## What We Learned About the Individuals and Organisations Developing and Supporting Technologies for Social Science Research
 
 Only 10% of the key people involved in designing and developing
 software tools used by social science researchers are women. It is
@@ -192,9 +190,7 @@ identifying software packages, tools, and apps related to their purpose
 and the user; the tool had to be useful in the research process---for
 example, by enabling data collection, analysis, visualisation, or
 running experiments on or offline. We also required evidence that the
-tool was
-
-used by social science researchers, demonstrated through references in
+tool was used by social science researchers, demonstrated through references in
 research papers or recommendations from researchers or researchers'
 blogs.
 
@@ -206,42 +202,42 @@ clusters of tools.
 We researched the following information where it was easily
 available:
 
-• The team or key people involved in the tools' development
++ The team or key people involved in the tools' development
 
-• Founding date
++ Founding date
 
-• Headquarters
++ Headquarters
 
-• Description and history
++ Description and history
 
-• Features and integrations
++ Features and integrations
 
-• Pricing
++ Pricing
 
-• Funders and partner organisations or supporters
++ Funders and partner organisations or supporters
 
-• Available papers
++ Available papers
 
 We used these key sources:
 
-• Project/company websites
++ Project/company websites
 
-• Conference websites and archives
++ Conference websites and archives
 
-• Prominent labs and initiatives, such as the Social Media Lab at
++ Prominent labs and initiatives, such as the Social Media Lab at
 Ryerson University,^4^ the Digital Methods Initiative,^5^ Lazer Lab,^6^
 and the Public Data Lab^7\ ^
 
-• Other tool directories and lists, including Dirt Directory,^8^
++ Other tool directories and lists, including Dirt Directory,^8^
 SourceForge,^9^ GitHub,^10^ LabWorm,^11^ and data from the 2016 survey
 on Innovation in Scholarly Communication (Bosman & Kramer,
 2016)
 
-• Academic papers referencing or describing the tools
++ Academic papers referencing or describing the tools
 
-• Wikipedia^12\ ^
++ Wikipedia^12\ ^
 
-• Crunchbase^13\ ^
++ Crunchbase^13\ ^
 
 # Analysis
 
@@ -399,14 +395,14 @@ following tools are capable of basic automated text analysis, such as
 bag-of-words, basic sentiment analysis, or the pre-cleaning of the data
 (for example removing the stop words):
 
-• Orange data miner (developed at Bioinformatics Laboratory, Faculty of
++ Orange data miner (developed at Bioinformatics Laboratory, Faculty of
 Computer and Information Science, University of Ljubljana, Slovenia,
 together with the open source community)
 
-• Quanteda (currently in beta, under development by Ken Benoit with
++ Quanteda (currently in beta, under development by Ken Benoit with
 support from SAGE)
 
-• LEXIMANCER (one of the older commercial text-mining tools, developed
++ LEXIMANCER (one of the older commercial text-mining tools, developed
 in Australia)
 
 We are only at the beginning of this project and will share our results
@@ -464,17 +460,16 @@ ensuring they are used in line with the creator's decisions.
 
 We published a series of blog posts with more insights from our research:
 
-• A review of the current landscape of social media tools and the labs
-involved in developing them (Davies, 2019)
++ A review of the current landscape of social media tools and the labs involved in developing them (Davies, 2019)
 
-• How researchers are using LinkedIn data (Duca, 2019)
++ How researchers are using LinkedIn data (Duca, 2019)
 
-• How researchers are using Weibo data (Hu, 2019)
++ How researchers are using Weibo data (Hu, 2019)
 
-• Tips on collecting social media data for research (Radford,
++ Tips on collecting social media data for research (Radford,
 2019)
 
-• Information about the teams given access to Facebook data through
++ Information about the teams given access to Facebook data through
 Social Science One (SAGE Ocean, 2019)
 
 ## Challenges Facing Tool Creators and Users
@@ -531,9 +526,7 @@ the tools, so we collected data on the tools' founders or founding
 teams. Based on 271 tools (or just over 65% of the entire list) that had
 information available, only 17 (6%) were led by women, and 19 (7%) had
 mixed-gender teams (Figure 13). Of the 410 people involved in creating
-these 271
-
-tools, 38 are women (10%) and 372 men (90%). This data was collected
+these 271 tools, 38 are women (10%) and 372 men (90%). This data was collected
 manually from the tools' websites, Crunchbase, GitHub, and any papers
 describing the tools. The gender was verified manually based on
 individual profiles.
@@ -685,8 +678,7 @@ And regulations around the ownership and use of personal data are being
 strengthened, with more consideration for the current state that big
 tech companies have brought about.
 
-## Who Supports Tools and Technologies for Social Science
-Research?
+## Who Supports Tools and Technologies for Social Science Research?
 
 Over one hundred of the tools in our list were developed within
 university research projects, by dedicated communities, consortia, or
@@ -694,31 +686,31 @@ other nonprofit organisations. We looked further into these
 organisations and communities to understand what they do and how they
 support these technologies:
 
-• NumFOCUS^40^ is a nonprofit organisation that helps teams develop
++ NumFOCUS^40^ is a nonprofit organisation that helps teams develop
 open-source software by providing advice around tax relief and
 sustainability programmes. It has supported tools like
 rOpenSci.^41\ ^
 
-• The Software Sustainability Institute^42^ is a non-profit
++ The Software Sustainability Institute^42^ is a non-profit
 organisation based in the UK that provides guidance and support to
 developing open source software.
 
-• Pelagios Commons^43^ is a discipline-specific consortium (humanities)
++ Pelagios Commons^43^ is a discipline-specific consortium (humanities)
 that develops and supports infrastructure for Linked Open Geodata. One
 tool in their portfolio is Recogito,^44^ for collaborative
 annotation.
 
-• The Foundation for Open Access Statistics^45^ is a
++ The Foundation for Open Access Statistics^45^ is a
 discipline-specific nonprofit that offers nonmonetary support for
 projects that align with its mission: free open-source tools and
 reproducible research in statistics, like the Shiny package for
 R.^46\ ^
 
-• The Open Knowledge Foundation^47^ is building a community around open
++ The Open Knowledge Foundation^47^ is building a community around open
 knowledge and advocating the release of data and information. It
 supports projects like ckan.^48\ ^
 
-• The Digital Methods Initiative,^49^ directed by Richard Rogers,
++ The Digital Methods Initiative,^49^ directed by Richard Rogers,
 professor of New Media and Digital Culture at the University of
 Amsterdam, collaborates with research groups across the world and other
 nongovernmental organisations to develop tools and carry out studies on
@@ -727,11 +719,11 @@ Amsterdam-based govcom. org, a foundation dedicated to creating and
 hosting political tools on the Web. DMI-TCAT^50^ is among their
 portfolio.
 
-• The Corporation for Digital Scholarship^51^ is a charitable
++ The Corporation for Digital Scholarship^51^ is a charitable
 organisation that supports the open- source tools Omeka and
 Zotero.
 
-• The Social Media Research Foundation^52^ is a charitable
++ The Social Media Research Foundation^52^ is a charitable
 organisation, or "a group of researchers who create tools, generate and
 host data, and support open scholarship related to social media," rhR
 developed NodeXL.
@@ -745,7 +737,7 @@ equivalent of the Software Sustainability Institute (Katz et al.,
 We found a number of regional programmes and consortia that support infrastructure for the
 social sciences or broader academic use:
 
-• Nectar^53^ in Australia (National eResearch Collaboration Tools and
++ Nectar^53^ in Australia (National eResearch Collaboration Tools and
 Resources project) was established in 2011. The project "provides an
 online infrastructure that supports researchers to connect with
 colleagues in Australia and around the world, allowing them to
@@ -753,14 +745,14 @@ collaborate and share ideas and research outcomes, which will ultimately
 contribute to our collective knowledge and make a significant impact on
 our society."
 
-• The Center for Open Science (COS)^54^ is a United States nonprofit
++ The Center for Open Science (COS)^54^ is a United States nonprofit
 organisation established in 2013 to promote open science, globally.
 Brian Nosek, one of the cofounders, initiated the Psychology
 Reproducibility Project, coordinating more than 200 researchers to
 reproduce psychology papers. COS are also behind Open Science Framework,
 the open source academic collaboration platform.
 
-• In Europe there are a number of infrastructure-driven collaborations.
++ In Europe there are a number of infrastructure-driven collaborations.
 CLARIN^55^ supports language-related infrastructure (services, tools,
 and data) for humanities and social sciences. DARIAH^56^ is another
 research infrastructure consortium in Europe that supports services,
@@ -830,9 +822,14 @@ so specific about the sector they invest in and prefer to focus on
 "digital" as an umbrella term for all software services regardless of
 industry.
 
->Examples of VC-funded tools Riffyn: $10M VC Import.io: \$22M VC
->paralleldots: \$2M VC RapidMiner: \$38M VC SciStarter: \$1M mix
->qualtrics: \$400M VC acquired Tableau: \$45M VC acquired
+>Examples of VC-funded tools 
+>Riffyn: $10M VC 
+>Import.io: \$22M VC
+>paralleldots: \$2M VC 
+>RapidMiner: \$38M VC 
+>SciStarter: \$1M mix
+>qualtrics: \$400M VC acquired 
+>Tableau: \$45M VC acquired
 
 While a number of universities mostly in the United States and the UK,
 and a few around the world, have incubators and some investment
@@ -848,7 +845,7 @@ and industrial technologies.
 
 
 
-#Conclusion
+# Conclusion
 
 In a previous paper we identified that a majority of social science
 researchers find it challenging to learn to use new software, especially
@@ -870,9 +867,7 @@ survey tools like Qualtrics, SurveyMonkey, and TypeForm do the basic job
 of survey management, enable an easier-to-use interface in designing
 complex questionnaires, interface with other games and experimental
 sites, and help recruit participants. The next most fascinating
-development, however, will address
-
-the effectiveness and efficiency of these surveys. Matt Salganik and
+development, however, will address the effectiveness and efficiency of these surveys. Matt Salganik and
 his team developed allourideas.org, a free surveying tool that enables
 researchers to engage their respondents to contribute to the survey
 development while also collecting answers. A group of computer
@@ -958,11 +953,11 @@ intelligible and usable by social science researchers, as well as a
 backend that can be exploited further due to advances in
 computing.
 
-***********
+___
 
->Want to talk about the future of tools, data, and methods in the social
->sciences? SAGE Ocean would love to hear from you. Contact us at
->ocean@sagepub.com or visit ocean.sagepub.com.
+Want to talk about the future of tools, data, and methods in the social
+sciences? SAGE Ocean would love to hear from you. Contact us at
+ocean@sagepub.com or visit ocean.sagepub.com.
 
 #Notes
 
