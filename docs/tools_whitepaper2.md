@@ -25,11 +25,11 @@ Publishing
 
 - Tools and Technologies: Trends Over Time  
 
--  Characteristics of Tools by Cluster  
+- Characteristics of Tools by Cluster  
 
--  Challenges Facing Tool Creators and Users  
+- Challenges Facing Tool Creators and Users  
 
--  Who Supports Tools and Technologies for Social Science Research?  
+- Who Supports Tools and Technologies for Social Science Research?  
 
 [Conclusion](#conclusion)
 
