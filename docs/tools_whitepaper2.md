@@ -3,6 +3,7 @@
 # Authors:
 
 [Daniela Duca](https://twitter.com/danielagduca), PhD Product Manager, SAGE Publishing
+
 [Katie Metzler](https://twitter.com/kmetzlersage) Associate Vice President Product Innovation, SAGE Publishing
 
 
@@ -35,7 +36,7 @@ and Supporting Technologies for Social Science Research](#what-we-learned-about-
 
 [References](#references)
 
-Suggested citation: Duca, D., & Metzler, K. (2019). *The ecosystem of
+**Suggested citation**: Duca, D., & Metzler, K. (2019). *The ecosystem of
 technologies for social science research* (White paper). London, UK:
 Sage. doi: 10.4135/wp191101
 
