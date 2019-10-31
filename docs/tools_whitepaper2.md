@@ -18,19 +18,19 @@ Publishing
 - [What We Learned About Technologies for Social Science Research](#what-we-learned-about-technologies-for-social-science-research)   
 
 - [What We Learned About the Individuals and Organisations Developing
-and Supporting Technologies for Social Science Research](#)  
+and Supporting Technologies for Social Science Research](#what-we-learned-about-the-individuals-and-organisations-developing-and-supporting-technologies-for-social-science-research)  
 
 [Methodology](#methodology)
 
 [Analysis](analysis)
 
-- [Tools and Technologies: Trends Over Time](#)  
+- [Tools and Technologies: Trends Over Time](#tools-and-technologies-trends-over-time)  
 
-- [Characteristics of Tools by Cluster](#)  
+- [Characteristics of Tools by Cluster](#characteristics-of-tools-by-cluster)  
 
-- [Challenges Facing Tool Creators and Users](#)  
+- [Challenges Facing Tool Creators and Users](#challenges-facing-tool-creators-and-users)  
 
-- [Who Supports Tools and Technologies for Social Science Research?](#) 
+- [Who Supports Tools and Technologies for Social Science Research?](#who-supports-tools-and-technologies-for-social-science-research) 
 
 [Conclusion](#conclusion)
 
