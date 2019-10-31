@@ -1,4 +1,4 @@
-###### www.sagepublishing.com
+###### [SAGE PUBLISHING](https://www.sagepublishing.com)
 
 # Authors:
 
