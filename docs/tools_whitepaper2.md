@@ -953,9 +953,7 @@ computing.
 
 ___
 
-Want to talk about the future of tools, data, and methods in the social
-sciences? SAGE Ocean would love to hear from you. Contact us at
-ocean@sagepub.com or visit ocean.sagepub.com.
+###### Want to talk about the future of tools, data, and methods in the social sciences? SAGE Ocean would love to hear from you. Contact us at ocean@sagepub.com or visit [ocean.sagepub.com](https://ocean.sagepub.com).
 
 
 
