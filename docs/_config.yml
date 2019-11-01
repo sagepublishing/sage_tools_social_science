@@ -19,3 +19,12 @@ description: A SAGE White Paper
 
 show_downloads: false
 google_analytics: 
+
+author:
+  name: "Daniela Duca"
+  avatar: "/docs/images/DD.jpg"
+  bio: "PhD Product Manager, SAGE PUBLISHING." 
+links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/danielagduca"
