@@ -97,7 +97,7 @@ the [SAGE Ocean initiative](https://ocean.sagepub.com), with the mission to supp
 by equipping social scientists with the skills, tools, and resources
 they need to work with big data and new technology.
 
-![Figure 2](https://github.com/danielagduca/SAGE_tools_social_science/images/fig2.png)
+![Figure 2](/images/fig2.png)
 
 Over a period of 10 months, SAGE Ocean reviewed 418 tools and software
 packages used by social science researchers, which we sourced from
