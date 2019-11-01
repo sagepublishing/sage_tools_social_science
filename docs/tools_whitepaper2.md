@@ -97,7 +97,7 @@ the [SAGE Ocean initiative](https://ocean.sagepub.com), with the mission to supp
 by equipping social scientists with the skills, tools, and resources
 they need to work with big data and new technology.
 
-![Figure 2](https://danielagduca.github.io/SAGE_tools_social_science/images/fig2.png)
+![Figure 2](images/fig2.png)
 
 Over a period of 10 months, SAGE Ocean reviewed 418 tools and software
 packages used by social science researchers, which we sourced from
@@ -281,9 +281,13 @@ available for free on a limited basis---for example, for a limited time,
 with limited features, or for certain customer groups (most frequently
 academics).
 
+![Figure 3](images/fig3.png)
+
 In terms of global distribution (see Figure 4), almost half the tools
 are based in the United States (209), followed by the UK (69), Germany
 (17), and Canada (13).
+
+![Figure 4](images/fig4.png)
 
 The bubble graph (Figure 5) illustrates the distribution of tools in
 our sample dataset by competitive cluster. To create the clusters, we
@@ -292,6 +296,8 @@ that would be used as alternatives to each other by researchers. Whilst
 the sample covers a variety of tools for social science research, it is
 biased towards social media analysis and annotation, as these are the
 areas we investigated most comprehensively.
+
+![Figure 5](images/fig5.png)
 
 ## Characteristics of Tools by Cluster
 
@@ -302,9 +308,7 @@ social sciences. Researchers used to carry clipboards, but now there are
 more than 50 different software tools for surveying. The timeline in
 Figure 6 shows a select number of survey tools and illustrates how
 varied this space is: There are free and open source tools, tools
-developed specifically for
-
-academics (REDCap, Bristol Online Surveys, SmartSurvey Academic), some
+developed specifically for academics (REDCap, Bristol Online Surveys, SmartSurvey Academic), some
 that developed quickly and raised a lot of money (TypeForm), and others
 that have been less successful. Some acquired competitors and went
 public (SurveyMonkey), and some had backing from angel investors
@@ -312,6 +316,8 @@ public (SurveyMonkey), and some had backing from angel investors
 new entrants, acquisitions, and fundraising, and yet more will come,
 with machine learning having the potential to transform the way we
 conduct surveys.
+
+![Figure 6](images/fig6.png)
 
 Of the surveying tools developed specifically for academics, the most
 popular one is REDCap. REDCap is an open source survey and client
@@ -346,7 +352,7 @@ number of surveying and online experiment platforms (Lumsden, 2019) and,
 at the time of writing, has 45,000 participants from across the
 globe.
 
-
+![Figure 7](images/fig7.png)
 
 ### 2. Annotation, Labelling, and Coding Text
 
@@ -380,6 +386,8 @@ coding schema, TagWorks (beta; *SAGE Publications invested in Thusly, the compan
 functions. Figure 8 maps a select number of the tools for annotating
 text based on complexity of labelling and how well they
 scale.
+
+![Figure 8](images/fig8.png)
 
 A range of open source, free to use, publicly funded tools provide
 similar manual annotation services, with a greater focus on
@@ -417,6 +425,8 @@ support from SAGE)
 + LEXIMANCER (one of the older commercial text-mining tools, developed
 in Australia)
 
+![Figure 9](images/fig9.png)
+
 We are only at the beginning of this project and will share our results
 in our [SAGE Ocean blog](https://ocean.sagepub.com/).
 
@@ -444,6 +454,8 @@ considered the most popular social media platform, with far fewer
 monthly users than Facebook or Instagram (*Just over 300 million monthly users in 2019, compared to two billion on Facebook and one billion on Instagram, for more details check [statista](https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/)*). We believe this is because
 it is much easier to access data from Twitter through their application
 programme interface (API) than from other platforms.
+
+![Figure 10](images/fig10.png)
 
 Generally, social media platforms have a policy against using their API
 for research purposes. This is true for LinkedIn and Facebook. However,
@@ -508,6 +520,8 @@ companies charge a fee, but 44 (11% of total, or close to 20% of
 privately owned and publicly traded) are free to use for
 researchers.
 
+![Figure 11](images/fig11.png)
+
 Interestingly, 9 tools (2%)---a small but growing number---were created
 or are maintained by consortia and are free to use for researchers.
 Under consortia, we included groups of organisations that decide to work
@@ -523,6 +537,8 @@ and code. We observed that, most often, the tools that are developed as
 a hobby or individual side-project only survive when the owner takes
 full responsibility for the tool and continues to use and maintain
 it.
+
+![Figure 12](images/fig12.png)
 
 Just 120 tools (30%) were developed by teams or labs within
 universities or other public- sector organisations. These are usually
@@ -542,6 +558,8 @@ these 271 tools, 38 are women (10%) and 372 men (90%). This data was collected
 manually from the tools' websites, Crunchbase, GitHub, and any papers
 describing the tools. The gender was verified manually based on
 individual profiles.
+
+![Figure 13](images/fig13.png)
 
 ### Challenges
 
