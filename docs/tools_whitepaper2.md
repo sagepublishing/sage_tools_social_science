@@ -87,7 +87,7 @@ data research in particular was seen as a barrier to researchers looking
 to move into the new and growing field of computational social science
 (Figure 2).
 
-![Figure 1](/images/fig1.png)
+![Figure 1](images/fig1.png)
 
 Through subsequent interviews with researchers and students, we gained
 an understanding of the challenges facing social scientists who want to
@@ -97,7 +97,7 @@ the [SAGE Ocean initiative](https://ocean.sagepub.com), with the mission to supp
 by equipping social scientists with the skills, tools, and resources
 they need to work with big data and new technology.
 
-![Figure 2](/images/fig2.png)
+![Figure 2](https://danielagduca.github.io/SAGE_tools_social_science/images/fig2.png)
 
 Over a period of 10 months, SAGE Ocean reviewed 418 tools and software
 packages used by social science researchers, which we sourced from
