@@ -1,9 +1,9 @@
 ---
 ---
 
+
+@import "{{ site.theme }}";
 .page-header {
     background-image: url('/docs/images/SAGE_ocean_Banner.jpg'); 
     background-color: #014284;
 }
-@import "{{ site.theme }}";
-
