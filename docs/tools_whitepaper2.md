@@ -87,7 +87,7 @@ data research in particular was seen as a barrier to researchers looking
 to move into the new and growing field of computational social science
 (Figure 2).
 
-![alt text](../../images/fig1.png "Figure 1")
+![alt text](https://github.com/danielagduca/SAGE_tools_social_science/blob/master/docs/images/fig1.png "Figure 1")
 
 Through subsequent interviews with researchers and students, we gained
 an understanding of the challenges facing social scientists who want to
