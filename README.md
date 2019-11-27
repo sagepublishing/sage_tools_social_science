@@ -1,10 +1,3 @@
----
-
-read_time: true
-image: /docs/images/SAGE_ocean_Banner.jpg
-
----
-
 Tools and technologies for social science research, a SAGE whitepaper
 
 To download the whitepaper as a pdf, please follow this [link](https://uk.sagepub.com/en-gb/eur/technologies-for-social-science-research).
