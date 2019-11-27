@@ -4,7 +4,7 @@ The underlying **data** is available as csv in this repository's [data folder](h
 
 Both the whitepaper and the underlying data are open under CC-BY license. Please feel free to use and reuse, and contribute. Watch this space for an updated version of the white paper and the data.
 
-# Cite the whitepaper:
+# Cite the white paper:
 Duca, D., & Metzler, K. (2019). *The ecosystem of technologies for social science research* (White paper). London, UK:
 Sage. doi: 10.4135/wp191101
 
