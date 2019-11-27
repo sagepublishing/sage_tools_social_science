@@ -9,7 +9,7 @@ Tools and technologies for social science research, a SAGE whitepaper
 
 To download the whitepaper as a pdf, please follow this [link](https://uk.sagepub.com/en-gb/eur/technologies-for-social-science-research).
 
-The underlying data is available as csv in this [repository](https://github.com/danielagduca/SAGE_tools_social_science/blob/master/data/master_tools_sep19.csv) 
+The underlying data is available as csv in this repository's [data folder](https://github.com/danielagduca/SAGE_tools_social_science/blob/master/data/master_tools_sep19.csv) 
 
 Both the whitepaper and the underlying data are open under CC-BY license. Please feel free to use and reuse, and contribute. We hope to update and publish newer versions of the white paper and the underlying data every few months.
 
