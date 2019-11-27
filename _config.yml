@@ -1,1 +1,34 @@
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
+
+title: The ecosystem of technologies for social science research
+description: A SAGE White Paper
+teaser: /docs/images/SAGE_ocean_Banner.jpg
+
+github:
+  repository_url: https://github.com/danielagduca/SAGE_tools_social_science/
+
+show_downloads: false
+google_analytics: G-19TRQN4D75
+
+author:
+  name: "Daniela Duca"
+  avatar: "/docs/images/DD.jpg"
+  bio: "PhD Product Manager, SAGE PUBLISHING." 
+links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/danielagduca"
