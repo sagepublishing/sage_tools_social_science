@@ -3,7 +3,7 @@ Contributors:	Daniela Duca, Eve Kraicer, Shulin Hu, Lily Davies
 Main contact:	Daniela Duca				
 Work supported by:	SAGE Ocean at SAGE Publishing				
 					
-Column title descriptions	
+# Column title descriptions	
 Name	:	Full name of tool, a tool can be software, app, piece of code, package, suit of tools, libraries
 Pitch	:	Short description, either from website, other sources, or paraphrased by us
 URL	:	Website where tool is hosted, or GitHub repository
@@ -26,7 +26,7 @@ Estimated_price_for_academic_ customer_annum	:	A very subjectively estimated pri
 Estimated_Citations	:	A count of the papers citing the tool, using Google Scholar, and counted throughout spring 2019
 Is it used? [other metrics #customers where available]	:	Other metrics or numbers that are available that could give an indication of usage/popularity of the tool
 
-Stage		
+# Stage		
 Project		
 Early stage	:	Idea, no customers yet, maybe 1
 Shipped	:	Product launched but early stage, a few customers; and/or with seed funding
@@ -36,7 +36,7 @@ Established/Public	:	Established company, too expensive to acquire, doing good w
 Failed	:	Kaput, or tool is out there, but no udpates or sustainability model whatsoever
 Exit	:	Bought by another company
 		
-Type of ownership		
+# Type of ownership		
 Private	:	incorporated, ltd, unltd, llp
 Publicly traded	:	PLC or company traded on public stock exchanges, anyone can buy shares
 Public sector	:	university, charity, or other non-profit type of organisation
