@@ -33,4 +33,4 @@ links:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/danielagduca"
 
-permalink: SAGE_tools_social_science/sections/:year/:month/:day/:title
+permalink: sage_tools_social_science/sections/:year/:month/:day/:title
