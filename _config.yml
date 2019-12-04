@@ -33,4 +33,4 @@ links:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/danielagduca"
 
-permalink: /sections/:year/:month/:day/:title
+permalink: ../sections/:year/:month/:day/:title
