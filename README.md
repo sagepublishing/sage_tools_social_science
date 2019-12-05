@@ -2,6 +2,8 @@ To download the whitepaper as a pdf, please follow this [link](https://uk.sagepu
 
 The underlying **data** is available as csv in this repository's [data folder](https://github.com/danielagduca/SAGE_tools_social_science/blob/master/data/master_tools_sep19.csv) 
 
+December [Webinar slides](https://danielagduca.github.io/SAGE_tools_social_science/docs/tools_webinar_dec19.pdf).
+
 Both the whitepaper and the underlying data are open under CC-BY and CC0 license respectively. Please feel free to use and reuse, and contribute. Watch this space for an updated version of the white paper and the data.
 
 # Cite the white paper:
@@ -10,6 +12,7 @@ Sage. doi: 10.4135/wp191101
 
 # Cite the underlying data:
 Duca, D. (2019) *The ecosystem of technologies for social science research* (dataset). doi: 10.5281/zenodo.3555207
+
 
 ----
 
