@@ -2,7 +2,7 @@ To download the whitepaper as a pdf, please follow this [link](https://uk.sagepu
 
 The underlying **data** is available as csv in this repository's [data folder](https://github.com/sagepublishing/SAGE_tools_social_science/blob/master/data/master_tools_sep19.csv) 
 
-December [Webinar slides](/docs/tools_webinar_dec19.pdf).
+December [Webinar slides](https://github.com/sagepublishing/sage_tools_social_science/docs/tools_webinar_dec19.pdf).
 
 Both the whitepaper and the underlying data are open under CC-BY and CC0 license respectively. Please feel free to use and reuse, and contribute. Watch this space for an updated version of the white paper and the data.
 
