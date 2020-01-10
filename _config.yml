@@ -19,7 +19,7 @@ description: A SAGE White Paper
 teaser: /docs/images/SAGE_ocean_Banner.jpg
 
 github:
-  repository_url: https://github.com/danielagduca/SAGE_tools_social_science/
+  repository_url: https://github.com/sagepublishing/sage_tools_social_science/
 
 show_downloads: false
 google_analytics: UA-153502749-1
