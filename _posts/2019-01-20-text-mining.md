@@ -1,7 +1,7 @@
 
-+ [Overview](#overview)
-+ [Key takeaways](#key-takeaways)
-+ [Annotated corpora](#annotated-corpora)
++ [Overview](#overview) of tools for mining text
++ [Key takeaways](#key-takeaways), reviewing 80+ tools
++ [Annotated text corpora](#annotated-text-corpora)
 
 ## Overview
 **From preprocessing to text analysis: 80 tools for mining unstructured data**
@@ -56,7 +56,7 @@ There are just about a handful of tools to help with converting file formats: PD
 One thing is certain, there are plenty of software applications, libraries and packages that can help support your large scale text analysis project. You can try the easier-to-use ones like Orange and move to applying argument analysis algorithms and language models to your growing corpus. We’ve got [a course to get your started](https://campus.sagepub.com/introduction-to-text-mining-for-social-scientists). 
 
 
-# Annotated Corpora
+# Annotated text corpora
 
 When working with text mining tools or learning how to use them, the biggest problem is finding a ready-to-use corpus. In many instances, you’d need a readily labeled one to test, especially if you don’t have the time to do the annotations yourself or the money to crowdsource the task before you work on your actual corpus. Here are 10 sources of (publicly available and free) labeled text corpora to get you started:
  
