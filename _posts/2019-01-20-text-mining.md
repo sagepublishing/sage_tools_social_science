@@ -14,7 +14,7 @@ Meanwhile, political scientists like Justin Grimmer and colleagues are combining
 
 In the infographic below, we identify more than 80 different apps, software packages, and libraries for R, Python and MATLAB that are used by social science researchers at different stages in their text analysis project. We focused almost entirely on statistical, quantitative and computational analysis of text, although some of these tools could be used to explore texts for qualitative purposes.
 
-![Text mining infographic](docs/images/text-mining1.png)
+![Text mining infographic](../docs/images/text-mining1.png)
 
 An infographic of text mining tools in the social sciences
 
