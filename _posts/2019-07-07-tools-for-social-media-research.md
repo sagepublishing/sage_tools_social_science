@@ -3,6 +3,7 @@ description: The ecosystem of technologies for social science research
 ---
 
 ### Tools for Social Media Research
+**[Get full white paper as pdf](https://uk.sagepub.com/en-gb/eur/technologies-for-social-science-research).**
 
 Over 30% of the world's population uses social media. We spend a vast
 number of hours attached to our devices; [every minute in the United
