@@ -1,3 +1,6 @@
+---
+description: The ecosystem of tools for social science research
+---
 
 + [Overview](#overview) of tools for mining text
 + [Key takeaways](#key-takeaways), reviewing 80+ tools
