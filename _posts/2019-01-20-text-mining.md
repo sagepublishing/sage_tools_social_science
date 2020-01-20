@@ -1,8 +1,8 @@
 # From preprocessing to text analysis: 80 tools for mining unstructured data
 
-[Overview](#overview)
-[Key takeaways](#key-takeaways)
-[Annotated corpora](#annotated-corpora)
++ [Overview](#overview)
++ [Key takeaways](#key-takeaways)
++ [Annotated corpora](#annotated-corpora)
 
 ## Overview
 
