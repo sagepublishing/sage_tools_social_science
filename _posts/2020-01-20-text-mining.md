@@ -5,6 +5,7 @@ description: The ecosystem of tools for social science research
 + [Overview](#overview) of tools for mining text
 + [Key takeaways](#key-takeaways), reviewing 80+ tools
 + [Annotated text corpora](#annotated-text-corpora)
++ [Tools for annotating text](#tools-for-annotating-text)
 
 ## Overview
 **From preprocessing to text analysis: 80 tools for mining unstructured data**
@@ -75,3 +76,54 @@ When working with text mining tools or learning how to use them, the biggest pro
 + [Dataturks A set of 405 mostly Spanish reviews for academic papers](https://archive.ics.uci.edu/ml/datasets/Paper+Reviews) submitted to an international computing conference, with the reviewers’ scores, and another set of scores labeled by readers of the reviews.
 
 You can also check the [trending projects on Dataturks](https://dataturks.com/projects/trending) which lists classified and labeled text datasets in multiple languages. Similarly, [tagtog have a running list](https://www.tagtog.net/-datasets) of public projects across domains. The [National Centre for Text Mining in the UK releases corpora for text mining](http://www.nactem.ac.uk/resources.php) for social sciences but also STEM research, some of which are annotated for sentiment and entities. Many NLP developers also keep track of useful datasets for machine learning, many on GitHub and loads on Kaggle. I recently came across this [very neat list](https://www.datasetlist.com/) that includes multiple formats for multiple tasks and information about the license. However, if you are looking for a real challenge, then explore [TREC datasets](https://trec.nist.gov/data.html) from the National Institutes of Standard and Technology in the US. 
+
+# Tools for annotating text
+### 2. Annotation, Labelling, and Coding Text
+
+We found 48 tools (60 if including CAQDAS, *Computer Assisted Qualitative Data Analysis Software generally refers to packages like NVIVO, MaxQDA, Atlas.ti, etc.*) that offer labelling or
+annotation services for text. Ten (20%) of these have not been updated
+for at least a year. Thirty-three (69%) are free to use, and pricing for
+the remaining 15 (31%) ranges from approximately \$60 to \$10,000 for a
+1-year project or to tag 2,500 documents with three
+annotators (*These criteria were adjusted according to the features of each pricing model.*). 
+
+The oldest annotation tools (besides the CAQDAS) are GATE and Open
+Calais. GATE is open source and very popular with researchers using
+complex coding schemas and larger text corpora, while Open Calais is for
+active work---labelling as you write. Given the proliferation of machine
+learning, especially around text mining, the need to annotate larger
+corpora to serve as training datasets has grown. This has driven a boom
+in new text annotation tools, each with unique selling points and
+improved user experience.
+
+Broadly speaking, there are two types of tools in this space: the
+recent tools that support semiautomated tagging (i.e., if you label a
+word or a phrase, it will label it in the remainder of your documents,
+automating a part of the task) and the classic annotation tools that
+support custom coding schemas. Tagtog, LighTag, Doccano, and Dataturks
+are relatively new semiautomated tagging tools. Integrated with
+Mechanical Turk, the most recent entrant to this space is Amazon's
+SageMaker, which promises to beat most other tools in rapidly
+crowdsourcing labels to train your algorithm. For researchers looking
+for a more complex set of labels and who are building a hierarchical
+coding schema, TagWorks (beta; *SAGE Publications invested in Thusly, the company that offers TagWorks, in 2018.*) was developed to support these
+functions. Figure 8 maps a select number of the tools for annotating
+text based on complexity of labelling and how well they
+scale.
+
+![Figure 8](../docs/images/fig8.png)
+
+A range of open source, free to use, publicly funded tools provide
+similar manual annotation services, with a greater focus on
+inter-annotator agreements and developing robust code books. They rely
+on community input, and although they have been developed within old
+infrastructure, they are actively used. The oldest, GATE, can score up
+to thirty thousand downloads a year. Brat has 218 forks on GitHub and
+more than 200 members within their contributing community, and along
+with TAMS Analyzer, we estimate they are cited more often than the other
+annotation tools (between 130 and 630, vs. less than 100 for the
+rest. *The inferences are based on most popular papers.*) GATE, Brat, and TAMS Analyzer appear in the first two pages
+in a Google search for "text annotation," and they are often recommended
+on Quora and ResearchGate as the best options for a social science
+labelling task.
+
