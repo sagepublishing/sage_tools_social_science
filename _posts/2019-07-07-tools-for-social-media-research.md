@@ -27,7 +27,7 @@ monthly users than Facebook or Instagram (*Just over 300 million monthly users i
 it is much easier to access data from Twitter through their application
 programme interface (API) than from other platforms.
 
-![Figure 10](images/fig10.png)
+![Figure 10](../docs/images/fig10.png)
 
 Generally, social media platforms have a policy against using their API
 for research purposes. This is true for LinkedIn and Facebook. However,
