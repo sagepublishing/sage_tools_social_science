@@ -1,10 +1,10 @@
-# From preprocessing to text analysis: 80 tools for mining unstructured data
 
 + [Overview](#overview)
 + [Key takeaways](#key-takeaways)
 + [Annotated corpora](#annotated-corpora)
 
 ## Overview
+*From preprocessing to text analysis: 80 tools for mining unstructured data*
 
 Text mining techniques have become critical for social scientists working with large scale social data, be it Twitter collections to track polarization, party documents to understand opinions and ideology, or news corpora to study the spread of misinformation.
 
@@ -13,6 +13,9 @@ Researchers and developers within the public and private sectors have been makin
 Meanwhile, political scientists like Justin Grimmer and colleagues are combining experimental methods, with computational text analysis to infer the features or pieces of text that are most likely to affect our voting behaviors. Others, are using platforms like IRaMuTeQ and Hyperbase that require no coding skills to run large scale text analysis projects.
 
 In the infographic below, we identify more than 80 different apps, software packages, and libraries for R, Python and MATLAB that are used by social science researchers at different stages in their text analysis project. We focused almost entirely on statistical, quantitative and computational analysis of text, although some of these tools could be used to explore texts for qualitative purposes.
+
+![Text mining infographic](docs/images/text-mining1.png)
+
 An infographic of text mining tools in the social sciences
 
 
@@ -21,6 +24,7 @@ An infographic of text mining tools in the social sciences
 #### Most tools are free, but high-performance tools require coding skills.
 
 More than 70% (92 out of 130) of the tools we’ve identified for text cleaning, preprocessing, enriching, and all kinds of analysis are free to use, and a handful provide free trial periods. The free and/or open-source libraries and packages such as scikit-learn, spacy, gensim, quanteda, NLTK are high performance, i.e. the outputs are as good if not better than some of the paid-for options and the open-source no-code options. In other words, the more you want to get out of your corpus, the more comfortable you need to be with R or Python in order to find and use these packages and especially if you want to apply transformers and language representation models to your dataset. 
+
 
 Graph showing tools and packages for text mining by charge 1962-2019
 
