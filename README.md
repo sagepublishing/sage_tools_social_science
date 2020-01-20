@@ -17,3 +17,14 @@ Duca, D. (2019) *The ecosystem of technologies for social science research* (dat
 ----
 
 This project is brought to you by [SAGE Ocean](https://ocean.sagepub.com/), enabling social scientists to work with big data and new technologies. 
+
+# Acknowledgments
+
+This paper would not have been possible without the work of Shulin Hu
+and Lily Davies, both master's students within the Digital Humanities
+programme at University College London, and Eve Kraicer, master's
+student in Gender Studies at the London School of Economics, whose work
+on this project involved data cleaning and looking at gender
+distribution. We also want to thank all the researchers, developers, and
+startup founders who endured and answered with patience and insight our
+endless questions.
