@@ -19,3 +19,16 @@ There is a growing number of tools and technologies for social science research,
 Our sample of tools covers mostly those focused on text mining, social media, qualitative data analysis and annotation of text and images, data visualization and surveying.
 
 ![Tools by competitive cluster](../data/images/tools_by_cluster.png)
+
+
+There are about as many free as there are paid-for, or limited free tools available.
+
+![Tools by charge](../data/images/tools_per_year_and_charge.png)
+
+
+The number of tools that are developed by diverse teams (in this case teams that include at least one woman), is still small, and not necessarily growing. The data is based on 411 tools for which we could find leadership information.
+
+
+![Tools by diversity in leadership teams](../data/images/tools_per_year_and_diversity.png)
+
+
