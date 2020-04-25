@@ -31,9 +31,13 @@ An infographic of text mining tools in the social sciences
 
 More than 70% (92 out of 130) of the tools we’ve identified for text cleaning, preprocessing, enriching, and all kinds of analysis are free to use, and a handful provide free trial periods. The free and/or open-source libraries and packages such as scikit-learn, spacy, gensim, quanteda, NLTK are high performance, i.e. the outputs are as good if not better than some of the paid-for options and the open-source no-code options. In other words, the more you want to get out of your corpus, the more comfortable you need to be with R or Python in order to find and use these packages and especially if you want to apply transformers and language representation models to your dataset. 
 
-![Text mining tools over time](../docs/images/text-mining3.png)
+![Text mining tools over time](../data/images/text_mining_per_year_and_charge.png)
 
 Graph showing tools and packages for text mining by charge 1962-2019
+
+![Text mining tools over time and gender diversity](../data/images/text_mining_per_year_and_diversity.png)
+
+Graph showing text mining tools and packages launched per year, including those with women in leadership teams, where data is available.
 
 #### Most tools that do not require coding skills are relatively old.
 
