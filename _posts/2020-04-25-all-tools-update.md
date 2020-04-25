@@ -32,3 +32,7 @@ The number of tools that are developed by diverse teams (in this case teams that
 ![Tools by diversity in leadership teams](../data/images/tools_per_year_and_diversity.png)
 
 
+In terms of the organizational structure behind the tools, the breakdown is similar to what we noted in the whitepaper.
+
+
+![Tools by structure](../data/images/tools_by_structure.png)
