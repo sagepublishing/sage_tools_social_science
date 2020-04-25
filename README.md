@@ -1,4 +1,4 @@
-To download the whitepaper as a pdf, please follow this [link](https://uk.sagepub.com/en-gb/eur/technologies-for-social-science-research).
+To download the whitepaper (2019) as a pdf, please follow this [link](https://uk.sagepub.com/en-gb/eur/technologies-for-social-science-research).
 
 The underlying **data** is available as csv in this repository's [data folder](https://github.com/sagepublishing/SAGE_tools_social_science/blob/master/data/master_tools_sep19.csv) 
 

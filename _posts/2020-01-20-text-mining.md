@@ -38,11 +38,11 @@ More than 70% (92 out of 130) of the tools we’ve identified for text cleaning,
 
 ![Text mining tools over time](../data/images/text_mining_per_year_and_charge.png)
 
-Graph showing tools and packages for text mining by charge 1962-2019
+*Graph showing tools and packages for text mining by charge 1962-2019*
 
 ![Text mining tools over time and gender diversity](../data/images/text_mining_per_year_and_diversity.png)
 
-Graph showing text mining tools and packages launched per year, including those with women in leadership teams, where data is available.
+*Graph showing text mining tools and packages launched per year 1962-2019, including those with women in leadership teams, where data is available.*
 
 #### Most tools that do not require coding skills are relatively old.
 
