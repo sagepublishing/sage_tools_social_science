@@ -22,7 +22,12 @@ In the infographic below, we identify more than 80 different apps, software pack
 
 ![Text mining infographic](../docs/images/text-mining1.png)
 
-An infographic of text mining tools in the social sciences
+*An infographic of text mining tools in the social sciences.*
+
+
+![Text mining infographic, techniques](../data/images/text_mining_techniques.png)
+
+*Word cloud for most common techniques.*
 
 
 ## Key takeaways
