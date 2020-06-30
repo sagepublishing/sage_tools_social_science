@@ -3,7 +3,7 @@ To download the whitepaper (2019) as a pdf, please follow this [link](https://uk
 The underlying and updated (as of April 2020) **data** is available as csv in this repository's [data folder](https://github.com/sagepublishing/SAGE_tools_social_science/blob/master/data/master_tools_current.csv) 
 
 December 2019 [webinar slides](https://github.com/sagepublishing/sage_tools_social_science/blob/master/docs/tools_webinar_dec19.pdf), and [recording](https://youtu.be/_Vyx4Y_iF3o).
-June 2020 [slides from ICTeSSH](https://github.com/sagepublishing/sage_tools_social_science/blob/master/docs/ICTeSSH_Ocean_2020.pdf).
+June 2020 [slides from ICTeSSH](https://github.com/sagepublishing/sage_tools_social_science/blob/master/docs/ictessh_ocean_2020.pdf).
 
 Both the whitepaper and the underlying data are open under CC-BY and CC0 license respectively. Please feel free to use and reuse, and contribute. Watch this space for an updated version of the white paper and the data.
 
