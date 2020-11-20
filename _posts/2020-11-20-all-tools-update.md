@@ -7,7 +7,7 @@ description: The ecosystem of tools for social science research
 
 ## Overview
 
-Since the publication of our [whitepaper](https://uk.sagepub.com/en-gb/eur/technologies-for-social-science-research) in the fall of 2019, we\'92ve added almost 100 more tools to our list. In this post, we will be updating the key figures from the paper.
+Since the publication of our [whitepaper](https://uk.sagepub.com/en-gb/eur/technologies-for-social-science-research) in the fall of 2019, we've added more than 100 tools to our list. We are continuously updating the key figures from the paper, and this post will contain the most up-to-date numbers and visuals. 
 
 ## Key takeaways
 
@@ -26,7 +26,7 @@ There are about as many free as there are paid-for, or limited free tools availa
 ![Tools by charge](../data/images/tools_per_year_and_charge.png)
 
 
-The number of tools that are developed by diverse teams (in this case teams that include at least one woman), is still small, and not necessarily growing. The data is based on 411 tools for which we could find leadership information.
+The number of tools that are developed by diverse teams (in this case teams that include at least one woman), is still small, and not necessarily growing. The data is based on 435 tools for which we could find leadership information.
 
 
 ![Tools by diversity in leadership teams](../data/images/tools_per_year_and_diversity.png)
