@@ -4,7 +4,7 @@ The underlying and updated (as of April 2020) **data** is available as csv in th
 
 - December 2019 [webinar slides](https://github.com/sagepublishing/sage_tools_social_science/blob/master/docs/tools_webinar_dec19.pdf), and [recording](https://youtu.be/_Vyx4Y_iF3o).
 - June 2020 [slides from ICTeSSH](https://github.com/sagepublishing/sage_tools_social_science/blob/master/docs/ictessh_ocean_2020.pdf).
-- November 2020 [slides from BigSurv](https://github.com/sagepublishing/sage_tools_social_science/blob/master/docs/Duca_Metzler_BigSurv2020.pdf)
+- November 2020 [slides from BigSurv](https://github.com/sagepublishing/sage_tools_social_science/blob/master/docs/Duca_Metzler_BigSurv2020.pdf), and the 5-min [video session](https://youtu.be/wUpI5ikBOrM).
 
 Both the whitepaper and the underlying data are open under CC-BY and CC0 license respectively. Please feel free to use and reuse, and contribute. Watch this space for an updated version of the white paper and the data.
 
