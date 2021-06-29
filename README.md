@@ -5,9 +5,10 @@ The underlying and updated (as of April 2020) **data** is available as csv in th
 
 **Slides and presentations**
 - December 2019, soft launch [webinar slides](https://github.com/sagepublishing/sage_tools_social_science/blob/master/docs/tools_webinar_dec19.pdf), and [recording](https://youtu.be/_Vyx4Y_iF3o).
-- June 2020 [slides from ICTeSSH](https://github.com/sagepublishing/sage_tools_social_science/blob/master/docs/ictessh_ocean_2020.pdf).
+- June 2020 [slides from ICTeSSH 2020](https://github.com/sagepublishing/sage_tools_social_science/blob/master/docs/ictessh_ocean_2020.pdf).
 - November 2020 [slides from BigSurv](https://github.com/sagepublishing/sage_tools_social_science/blob/master/docs/Duca_Metzler_BigSurv2020.pdf), and the 5-min [video session](https://youtu.be/wUpI5ikBOrM), winner of the **people's choice award**!
 - June 2021 [slides from UCL Code Fest](https://github.com/sagepublishing/sage_tools_social_science/blob/master/docs/ucl_codefest_2021.pdf)
+- June 2021 [slides from ICTeSSH 2021](https://github.com/sagepublishing/sage_tools_social_science/blob/master/docs/ictessh_2021.pdf)
 
 ## Learn more about the tools list and [how to use it in your teaching](https://forrt.org/educators-corner/003-developing-tools/).
 
