@@ -1,6 +1,6 @@
 To download the whitepaper (2019) as a pdf, please follow this [link](https://uk.sagepub.com/en-gb/eur/technologies-for-social-science-research).
 
-The underlying and updated (as of April 2020) **data** is available as csv in this repository's [data folder](https://github.com/sagepublishing/SAGE_tools_social_science/blob/master/data/master_tools_current.csv), or...
+The underlying and updated (as of July 2021) **data** is available as csv in this repository's [data folder](https://github.com/sagepublishing/SAGE_tools_social_science/blob/master/data/master_tools_current.csv), or...
 ## Browse and search the full list on [polymer](https://app.polymersearch.com/experiments/social-science-software/6033ea2ecc9f4eb075bd0e0c).
 ## Learn more about the tools list and [how to use it in your teaching](https://forrt.org/educators-corner/003-developing-tools/). 
 
